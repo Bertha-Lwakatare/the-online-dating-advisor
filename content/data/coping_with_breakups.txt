@@ -1,0 +1,1912 @@
+<!DOCTYPE html>
+<html lang="en-GB" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <title>The Ultimate Guide to Breakups | Psychology Today United Kingdom</title>
+    <!-- Google Tag Manager Data Layer -->
+    <script>
+      dataLayer = window.dataLayer || [];
+    </script>
+    <!-- End Google Tag Manager Data Layer -->
+    <meta charset="utf-8" http-equiv="Content-Type" content="text/html" />
+<meta name="description" content="When a breakup feels overwhelming, turn to these battle-tested tips from a top psychologist." />
+<link rel="canonical" href="https://www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" />
+<meta property="og:site_name" content="Psychology Today" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" />
+<meta property="og:title" content="The Ultimate Guide to Breakups" />
+<meta property="og:description" content="When a breakup feels overwhelming, turn to these battle-tested tips from a top psychologist." />
+<meta property="og:image" content="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2020-08/istock-908957470_0-144x144-925_0-1196_1197.jpg?itok=nLBkVrW-" />
+<meta property="fb:app_id" content="220580041311284" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@PsychToday" />
+<meta name="twitter:image" content="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2020-08/istock-908957470_0-144x144-925_0-1196_1197.jpg?itok=nLBkVrW-" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<meta name="theme-color" content="#191C1F" media="(prefers-color-scheme: dark)" />
+<meta name="theme-color" content="#F2F2F2" media="(prefers-color-scheme: light)" />
+<meta name="alexaVerifyID" content="ruuD3Gzrr-EaY185APFbxF69Va4" />
+<meta name="google-site-verification" content="G-wasBQCXXJoehIaVW5BsO9VYKt4oqmWGo155wSSakQ" />
+<meta name="y_key" content="0f29d521db0a2863" />
+<meta name="msvalidate.01" content="9AD6650A37790044983CFB6B27D77607" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Psych Today" />
+<meta name="robots" content="index,follow" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "NewsArticle",
+            "url": "https://www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups",
+            "headline": "Breakups can be brutal. Here’s what you need to know!",
+            "description": "When a breakup feels overwhelming, turn to these battle-tested tips from a top psychologist.",
+            "datePublished": "2020-08-21T10:07:58-04:00",
+            "dateModified": "2020-08-21T10:07:58-04:00",
+            "isAccessibleForFree": true,
+            "mainEntityOfPage": "https://www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups",
+            "image": [
+                "https://cdn2.psychologytoday.com/assets/styles/manual_crop_16_9_1200x675/public/field_blog_entry_teaser_image/2020-08/istock-908957470_0-144x144-925_0-1196_1197.jpg?itok=f_Nta01W",
+                "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_1200x1200/public/field_blog_entry_teaser_image/2020-08/istock-908957470_0-144x144-925_0-1196_1197.jpg?itok=QBrBru83",
+                "https://cdn2.psychologytoday.com/assets/styles/manual_crop_4_3_1200x900/public/field_blog_entry_teaser_image/2020-08/istock-908957470_0-144x144-925_0-1196_1197.jpg?itok=74ySzjGw"
+            ],
+            "about": {
+                "@type": "Thing",
+                "name": "Mating ",
+                "mainEntityOfPage": "https://www.psychologytoday.com/gb/basics/mating"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Chloe Carmichael Ph.D.",
+                "honorificSuffix": "Ph.D.",
+                "mainEntityOfPage": "https://www.psychologytoday.com/gb/contributors/chloe-carmichael-phd",
+                "url": "https://www.psychologytoday.com/gb/contributors/chloe-carmichael-phd"
+            },
+            "editor": {
+                "@type": "Person",
+                "name": "Jessica Schrader"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "@id": "https://www.psychologytoday.com/#organization",
+                "name": "Psychology Today",
+                "url": "https://www.psychologytoday.com",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://cdn2.psychologytoday.com/theme-assets/logo/psychology-today-logo-wordmark-602x120.png",
+                    "width": 602,
+                    "height": 120
+                },
+                "publishingPrinciples": "https://www.psychologytoday.com/gb/docs/editorial-process"
+            },
+            "isPartOf": {
+                "@type": "Blog",
+                "name": "The High-Functioning Hotspot",
+                "mainEntityOfPage": "https://www.psychologytoday.com/gb/blog/the-high-functioning-hotspot"
+            }
+        }
+    ]
+}</script><link rel="preload" as="image" href="https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-08/istock-908957470_1.jpg?itok=gvpanUeG" />
+<link rel="preconnect" href="//cdn2.psychologytoday.com" crossorigin />
+<link rel="dns-prefetch" href="//cdn2.psychologytoday.com" />
+<link rel="alternate" href="https://www.psychologytoday.com/au/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" hreflang="en-AU" />
+<link rel="alternate" href="https://www.psychologytoday.com/ca/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" hreflang="en-CA" />
+<link rel="alternate" href="https://www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" hreflang="en-GB" />
+<link rel="alternate" href="https://www.psychologytoday.com/ie/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" hreflang="en-IE" />
+<link rel="alternate" href="https://www.psychologytoday.com/nz/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" hreflang="en-NZ" />
+<link rel="alternate" href="https://www.psychologytoday.com/sg/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" hreflang="en-SG" />
+<link rel="alternate" href="https://www.psychologytoday.com/us/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" hreflang="en-US" />
+<link rel="alternate" href="https://www.psychologytoday.com/us/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" hreflang="x-default" />
+<link rel="alternate" href="https://www.psychologytoday.com/za/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" hreflang="en-ZA" />
+<link rel="icon" href="https://cdn2.psychologytoday.com/theme-assets/favicon/favicon.ico" sizes="16x16 32x32 48x48" type="image/x-icon" />
+<link rel="icon" href="https://cdn2.psychologytoday.com/theme-assets/favicon/favicon.svg" type="image/svg+xml" />
+<link rel="icon" href="https://cdn2.psychologytoday.com/theme-assets/favicon/favicon-48x48.png" sizes="48x48" type="image/png" />
+<link rel="icon" href="https://cdn2.psychologytoday.com/theme-assets/favicon/favicon-32x32.png" sizes="32x32" type="image/png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://cdn2.psychologytoday.com/theme-assets/touch-icons/apple-touch-icon.png" />
+<link rel="manifest" href="/theme-assets/favicon/manifest.json" />
+<link rel="amphtml" href="https://www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups/amp" />
+
+    <!-- Font preload -->
+    <link rel="preload" href="https://cdn2.psychologytoday.com/themes/custom/pt/fonts/proxima-nova/proxima-nova-regular.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://cdn2.psychologytoday.com/themes/custom/pt/fonts/proxima-nova/proxima-nova-semibold.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://cdn2.psychologytoday.com/themes/custom/pt/fonts/proxima-nova/proxima-nova-bold.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" media="all" href="https://cdn2.psychologytoday.com/assets/css/css_9BWfjIUMiblbMUoVpTWrH5KcQ_Zi2Su3-KfMOHM-daE.css?delta=0&amp;language=en&amp;theme=pt&amp;include=eJw1ilsOwjAMBC-Ux5EiB29RkPOQnRRye0olfkaj2X10RWRdgyTQiz5uzJilPz3a1O2PJfJLk7LALkvEtbT4lyAlK-l2tm2ixkwGdxZGT6gZnI4C4aiw0ZuVE_4erwveFm-G2nkJviCwNO4" />
+<link rel="stylesheet" media="all" href="https://cdn2.psychologytoday.com/assets/css/css_zIWbURp2h2kXKyhf-KnWOx9KEhUZ9eddB2wvgPuj8hc.css?delta=1&amp;language=en&amp;theme=pt&amp;include=eJw1ilsOwjAMBC-Ux5EiB29RkPOQnRRye0olfkaj2X10RWRdgyTQiz5uzJilPz3a1O2PJfJLk7LALkvEtbT4lyAlK-l2tm2ixkwGdxZGT6gZnI4C4aiw0ZuVE_4erwveFm-G2nkJviCwNO4" />
+
+
+    <!-- Add dns preconnect/prefetch/preload for high priority third party resources -->
+    <link rel="preconnect" href="//securepubads.g.doubleclick.net" crossorigin />
+    <link rel="dns-prefetch" href="//securepubads.g.doubleclick.net" />
+          <link rel="preload" as="script" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" />
+        <link rel="preconnect" href="//www.googletagmanager.com" crossorigin />
+    <link rel="dns-prefetch" href="//www.googletagmanager.com" />
+    <link rel="preload" as="script" href="https://www.googletagmanager.com/gtm.js?id=GTM-NW5PKS" />
+
+    
+
+    <!-- Add dns prefetch for third party resources -->
+    <link rel="dns-prefetch" href="//analytics.google.com" />
+    <link rel="dns-prefetch" href="//tpc.googlesyndication.com" />
+    <link rel="dns-prefetch" href="//page2.googlesyndication.com" />
+    <link rel="dns-prefetch" href="//cdn-cookieyes.com" />
+    <link rel="dns-prefetch" href="//sb.scorecard.research.com" />
+
+  </head>
+  <body class="language-en not-logged-in not-front node--blog_entry">
+  <div class="backdrop-screen"></div>
+      <a href="#block-pt-content" class="visually-hidden focusable" rel="nofollow">
+      Skip to main content
+    </a>
+    <script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"":"Psychology Today","entityLangcode":"en","page_type":"node","drupal_node_type":"blog_entry","drupal_node_nid":"1149429","drupal_node_title":"The Ultimate Guide to Breakups","userUid":0,"event":"drupal_node_view","ContentWeb":"Blogs"});</script>
+
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NW5PKS"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){
+      if (typeof w[l] == 'undefined') { w[l] = [] };
+      w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.defer=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;j.addEventListener('load', function() {
+        var _ge = new CustomEvent('gtm_loaded', { bubbles: true });
+        d.dispatchEvent(_ge);
+      });f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NW5PKS');
+  </script>
+  <!-- End Google Tag Manager -->
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<header class="header">
+    <div>
+    <div id="block-mainnavbarblock" class="block">
+  
+    
+      
+
+
+<div class="main-nav-wrapper">
+  <div class="container">
+    <button id="enabled-mobile-nav-control" class="mobile-nav-control" data-target="#navbarNavDropdown"><span class="visually-hidden">Mobile Navigation</span></button>
+    <nav class="main-nav" role="navigation">
+      <div class="h1 main-nav--logo logo logo-en">
+        <a href="https://www.psychologytoday.com/gb">Psychology Today</a>
+        <div class="h3 mobile-nav-search-title">Search</div>
+      </div>
+      <ul class="main-nav--toggles list-style-none d-none d-lg-flex">
+
+                          <li class="main-nav--toggle">
+            <a href="#" class="main-nav--toggle-link">Find Counselling</a>
+            <div class="main-nav--panel d-none">
+              <div class="container">
+                
+<div class="navigation--therapist-directory">
+  <div class="navigation--therapist-directory__search">
+    <div class="h3"><a href="https://www.psychologytoday.com/gb/counselling">Find Counselling</a></div>
+    <div class="navigation--therapist-directory__search-form">
+      
+                            <form action="https://www.psychologytoday.com/gb/counselling" method="GET" target="_top" autocomplete="off" autocorrect="off" autocapitalize="off" id="td_search_form" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_TherapistSearch">
+  <div class="container-fat__callout_form" data-search-suggest="sussex" data-placeholder="City or Postcode" data-mobile-fullscreen="true" data-size="large" data-menu="true" data-menu-items="[{&quot;label&quot;:&quot;Counsellors&quot;,&quot;suggestionsUrl&quot;:&quot;https:\/\/www.psychologytoday.com\/intl\/search\/suggestions?query={query}&amp;context=therapists&amp;country-code=gb&quot;,&quot;searchUrl&quot;:&quot;https:\/\/www.psychologytoday.com\/gb\/counselling?search={query}&quot;,&quot;title&quot;:&quot;&quot;},{&quot;label&quot;:&quot;Support Groups&quot;,&quot;suggestionsUrl&quot;:&quot;https:\/\/www.psychologytoday.com\/intl\/search\/suggestions?query={query}&amp;context=groups&amp;country-code=gb&quot;,&quot;searchUrl&quot;:&quot;https:\/\/www.psychologytoday.com\/gb\/groups?search={query}&quot;,&quot;title&quot;:&quot;&quot;}]" data-input-aria-label="Search input text" data-button-aria-label="Search button">
+    <button type="submit" value="Search" title="" class="search-btn default large d-none" aria-label="Search button"></button>
+    <div class="search td-search d-flex">
+      <div class="menu large d-none d-sm-inline-block">
+        <div>
+          <button class="td-search--menu-button large">Counsellors</button>
+        </div>
+        <ul class="td-search--menu list-style-none">
+                                                              <li class="selected">
+                <a href="#" data-selector-option-text="Counsellors" data-selector-option-value="https://www.psychologytoday.com/gb/counselling" title="">Counsellors</a>
+              </li>
+                                                                          <li>
+                <a href="#" data-selector-option-text="Support Groups" data-selector-option-value="https://www.psychologytoday.com/gb/groups" title="">Support Groups</a>
+              </li>
+                              </ul>
+      </div>
+      <div class="large search-suggest-modal has-menu td-search--input">
+        <div class="close-suggestions d-none"><button>x</button></div>
+        <div class="search-field-container search-suggest-modal large">
+          <input type="text" id="searchField" class="large search-suggest-modal has-menu" name="search" placeholder="City or Postcode" size="25" aria-label="Search input text">
+          <button type="submit" value="Search" title="" class="search-btn default large d-none" aria-label="Search button"></button>
+        </div>
+      </div>
+    </div>
+  </div>
+</form>
+    </div>
+    <div class="navigation--therapist-directory__existing">
+      <div class="flag-icon"><strong>Counsellors:</strong>
+                  <a href="https://member.psychologytoday.com/gb/login" class="login-link" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_TherapistLogIn">Login</a>
+                          |
+          <a href="https://join.psychologytoday.com/gb/signup" class="signup-link" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_SignupN">Sign Up & Get Listed</a>
+              </div>
+    </div>
+  </div>
+
+  <div class="navigation--therapist-directory__locations_wrapper">
+    <div class="navigation--therapist-directory__cities">
+      <div class="h3">
+        <a href="https://www.psychologytoday.com/gb/counselling">United Kingdom</a>
+      </div>
+      
+      <ul class="list-style-none">
+              <li><a href="https://www.psychologytoday.com/gb/counselling/nir/belfast" title="Find Marriage Counselling Counselling in Belfast" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Belfast</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/birmingham" title="Find Marriage Counselling Counselling in Birmingham" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Birmingham</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/bristol" title="Find Marriage Counselling Counselling in Bristol" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Bristol</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/wls/cardiff" title="Find Marriage Counselling Counselling in Cardiff" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Cardiff</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/coventry" title="Find Marriage Counselling Counselling in Coventry" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Coventry</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/sct/edinburgh" title="Find Marriage Counselling Counselling in Edinburgh" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Edinburgh</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/leeds" title="Find Marriage Counselling Counselling in Leeds" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Leeds</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/leicester" title="Find Marriage Counselling Counselling in Leicester" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Leicester</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/liverpool" title="Find Marriage Counselling Counselling in Liverpool" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Liverpool</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/london" title="Find Marriage Counselling Counselling in London" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">London</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/manchester" title="Find Marriage Counselling Counselling in Manchester" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Manchester</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/sheffield" title="Find Marriage Counselling Counselling in Sheffield" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Sheffield</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/exeter" title="Find Marriage Counselling Counselling in Exeter" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Exeter</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/bournemouth" title="Find Marriage Counselling Counselling in Bournemouth" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Bournemouth</a></li>
+          </ul>
+  
+    </div>
+  </div>
+</div>
+
+              </div>
+            </div>
+          </li>
+                
+                          <li class="main-nav--toggle">
+            <a href="#" class="main-nav--toggle-link">Get Help</a>
+            <div class="main-nav--panel d-none">
+              <div class="container">
+                <div class="d-grid main-nav--basics">
+                  <div class="main-nav--basics--column-1 d-grid">
+                                          <div class="main-nav--basics--column-first">
+                        <div id="block-basicslinkmenublock-mental-health">
+  
+      <div class="h3 main-nav--basics-link-title">Mental Health</div>
+    
+      
+
+  <div>
+        <ul class="list-style-none main-nav--basics-links">
+                    <li class="main-nav--basics-link"><a href="/gb/basics/addiction" data-drupal-link-system-path="node/50109">Addiction</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/anxiety" data-drupal-link-system-path="node/41827">Anxiety</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/adhd" data-drupal-link-system-path="node/41094">ADHD</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/aspergers-syndrome" data-drupal-link-system-path="node/41798">Asperger&#039;s</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/autism" data-drupal-link-system-path="node/40997">Autism</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/bipolar-disorder" data-drupal-link-system-path="node/41105">Bipolar Disorder</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/chronic-pain" data-drupal-link-system-path="node/53685">Chronic Pain</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/depression" data-drupal-link-system-path="node/40725">Depression</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/eating-disorders" data-drupal-link-system-path="node/41459">Eating Disorders</a></li>
+                </ul>
+      </div>
+
+  </div>
+
+                      </div>
+                                                              <div class="main-nav--basics--column-second">
+                        <div id="block-basicslinkmenublock-personality">
+  
+      <div class="h3 main-nav--basics-link-title">Personality</div>
+    
+      
+
+  <div>
+        <ul class="list-style-none main-nav--basics-links">
+                    <li class="main-nav--basics-link"><a href="/gb/basics/passive-aggression" data-drupal-link-system-path="node/53837">Passive Aggression</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/personality" data-drupal-link-system-path="node/53843">Personality</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/shyness" data-drupal-link-system-path="node/53941">Shyness</a></li>
+                </ul>
+      </div>
+
+  </div>
+<div id="block-basicslinkmenublock-personal-growth">
+  
+      <div class="h3 main-nav--basics-link-title">Personal Growth</div>
+    
+      
+
+  <div>
+        <ul class="list-style-none main-nav--basics-links">
+                    <li class="main-nav--basics-link"><a href="/gb/basics/motivation" data-drupal-link-system-path="node/53823">Goal Setting</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/happiness" data-drupal-link-system-path="node/53757">Happiness</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/positive-psychology" data-drupal-link-system-path="node/53862">Positive Psychology</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/smoking" data-drupal-link-system-path="node/53954">Stopping Smoking</a></li>
+                </ul>
+      </div>
+
+  </div>
+
+                      </div>
+                                                              <div class="main-nav--basics--column-third">
+                        <div id="block-basicslinkmenublock-relationships">
+  
+      <div class="h3 main-nav--basics-link-title">Relationships</div>
+    
+      
+
+  <div>
+        <ul class="list-style-none main-nav--basics-links">
+                    <li class="main-nav--basics-link"><a href="/gb/basics/low-sexual-desire" data-drupal-link-system-path="node/69085">Low Sexual Desire</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/relationships" data-drupal-link-system-path="node/53894">Relationships</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/sex" data-drupal-link-system-path="node/53931">Sex</a></li>
+                </ul>
+      </div>
+
+  </div>
+<div id="block-basicslinkmenublock-family-life">
+  
+      <div class="h3 main-nav--basics-link-title">Family Life</div>
+    
+      
+
+  <div>
+        <ul class="list-style-none main-nav--basics-links">
+                    <li class="main-nav--basics-link"><a href="/gb/basics/child-development" data-drupal-link-system-path="node/53683">Child Development</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/parenting" data-drupal-link-system-path="node/53833">Parenting</a></li>
+                </ul>
+      </div>
+
+  </div>
+
+                        <div class="h3"><a href="/gb/basics" class="see-all-topics">See All Help Topics</a></div>
+                      </div>
+                                      </div>
+                  <div class="main-nav--basics main-nav--basics--column-2">
+                                          <div class="main-nav--basics--column-fourth">
+                        <div id="block-gethelpindexlinksblock" class="block">
+  
+    
+            <div class="h3 main-nav--basics-link-title">Do I Need Help?</div>
+        <ul class="list-style-none main-nav--basics-links">
+              <li class="main-nav--basics-link">
+          <a href="/gb/tests" title="Self Tests" hreflang="en">
+            Self Tests <div class="result-tag">NEW</div>          </a>
+        </li>
+              <li class="main-nav--basics-link">
+          <a href="/gb/basics/therapy" title="Therapy Center" hreflang="en">
+            Therapy Center          </a>
+        </li>
+          </ul>
+        <div class="h3 main-nav--basics-link-title">Student Resources</div>
+        <ul class="list-style-none main-nav--basics-links">
+              <li class="main-nav--basics-link">
+          <a href="/gb/conditions" title="Clinical Terms" hreflang="en">
+            Clinical Terms          </a>
+        </li>
+              <li class="main-nav--basics-link">
+          <a href="/gb/types-of-therapy" title="Types of Therapy" hreflang="en">
+            Types of Therapy          </a>
+        </li>
+          </ul>
+  
+  </div>
+<div id="block-countrymenufindlinksblock" class="block">
+  
+    
+      <div class="h3 main-nav--basics-link-title">Talk to Someone</div>
+<ul class="list-style-none main-nav--basics-links">
+      <li class="main-nav--basics-link">
+      <a href="https://www.psychologytoday.com/gb/counselling" title="Find Counselling">Find Counselling</a>
+    </li>
+            <li class="main-nav--basics-link">
+      <a href="https://www.psychologytoday.com/gb/groups" title="Find a Support Group">Find a Support Group</a>
+    </li>
+        <li class="main-nav--basics-link">
+      <a href="https://www.psychologytoday.com/gb/counselling?category=online-counselling" title="Find Online Therapy">Find Online Therapy</a>
+    </li>
+  </ul>
+
+  </div>
+
+                      </div>
+                                      </div>
+                </div>
+              </div>
+            </div>
+          </li>
+                                          <li class="main-nav--toggle">
+            <a href="#" class="main-nav--toggle-link">Magazine</a>
+            <div class="main-nav--panel d-none">
+              <div class="container">
+                <div class="main-nav--magazine d-grid">
+                                      <div class="views-element-container block" id="block-views-block-magazine-block-1">
+  
+    
+      <div><div class="js-view-dom-id-290a3de634ed84e40d3a96775247409387e0ee2ef90bde992c436fb2aa3877a3">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="h3 main-nav--section-title">Current</div>
+
+      <div>
+<div class="magazine-issue magazine-cover-feature">
+  <div class="magazine-cover-feature__cover magazine-thumbnail">
+    <a href="https://www.psychologytoday.com/gb/magazine/archive/2026/09" title="September 2026">
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-08/2026-09.png.jpg?itok=4OW8Fjd3" width="384" height="504" alt="September 2026 magazine cover" title="The Power of Enough" />
+
+
+
+      </a>
+  </div>
+
+  <div class="magazine-cover-feature__text">
+    <a href="https://www.psychologytoday.com/gb/magazine/archive/2026/09" title="September 2026">
+      <div class="h3 magazine-cover-feature__date">
+            September 2026 
+      </div>
+      <div class="h3 magazine-cover-feature__headline">
+            The Power of Enough
+      </div>
+    </a>
+    <div class="magazine-cover-feature__highlight"><p>
+            We’re all holding onto something we’re sure we can’t give up on, but research shows that letting go can boost our happiness a lot more than we might think.
+      </p></div>
+  </div>
+  
+</div>
+</div>
+
+
+      <a href="https://subscribe.psychologytoday.com" class="btn btn-round btn-blue" title="Subscribe to Psychology Today Magazine">Subscribe</a>
+  
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+                                                        <div class="views-element-container block" id="block-views-block-magazine-block-2">
+  
+    
+      <div>
+<div class="js-view-dom-id-87fb45de7f752e129649afc954549d5cdd2303a131cf67f299e0f88b4e89404a magazine-block-2">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="h3 main-nav--section-title">Recent</div>
+
+  <div class="magazine-row">
+        <div class="views-row"><div class="magazine-issue magazine-issue--magazine-cover">
+  <div class="magazine-cover__cover magazine-thumbnail">
+    <a href="https://www.psychologytoday.com/gb/magazine/archive/2026/07" title="July 2026">
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-06/2026-07.png.jpg?itok=DlKFbn6e" width="384" height="504" alt="July 2026 magazine cover" title="26 Keys to Thriving" />
+
+
+
+      </a>
+  </div>
+</div>
+</div>
+    <div class="views-row"><div class="magazine-issue magazine-issue--magazine-cover">
+  <div class="magazine-cover__cover magazine-thumbnail">
+    <a href="https://www.psychologytoday.com/gb/magazine/archive/2026/05" title="May 2026">
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-04/2026-05.png.jpg?itok=0bF8jd5M" width="384" height="504" alt="May 2026 magazine cover" title="Begin Again" />
+
+
+
+      </a>
+  </div>
+</div>
+</div>
+    <div class="views-row"><div class="magazine-issue magazine-issue--magazine-cover">
+  <div class="magazine-cover__cover magazine-thumbnail">
+    <a href="https://www.psychologytoday.com/gb/magazine/archive/2026/03" title="March 2026">
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-03/psychology-today-magazine-2026-03.jpg?itok=6L88mQwU" width="384" height="504" alt="March 2026 magazine cover" title="The Friend Effect" />
+
+
+
+      </a>
+  </div>
+</div>
+</div>
+    <div class="views-row"><div class="magazine-issue magazine-issue--magazine-cover">
+  <div class="magazine-cover__cover magazine-thumbnail">
+    <a href="https://www.psychologytoday.com/gb/magazine/archive/2026/01" title="January 2026">
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2025-12/2026-01.png.jpg?itok=x9v5Amu5" width="384" height="504" alt="January 2026 magazine cover" title="Find Your Purpose" />
+
+
+
+      </a>
+  </div>
+</div>
+</div>
+
+  </div>
+
+      <a href="https://www.psychologytoday.com/gb/magazine/archive" class="btn btn-round btn-white" title="Psychology Today Issue Archive">Issue Archive</a>
+  
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+                                  </div>
+              </div>
+            </div>
+          </li>
+                                          <li class="main-nav--toggle">
+            <a href="#" class="main-nav--toggle-link">Tests</a>
+            <div class="main-nav--panel d-none">
+              <div class="container">
+                <div class="main-nav--tests d-grid">
+                                      <div id="block-pt-selftestsmenublock" class="block main-nav--tests--block">
+  
+    
+      <div class="tests--column-1">
+              <div class="tests--image">
+          
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/self-tests-menu%402x.png" width="591" height="440" alt="Self Tests" />
+
+
+      
+        </div>
+                    <div class="tests--title">
+          Self Tests
+        </div>
+                    <div class="nav--tests--description">
+          <p>Self Tests are all about you. Are you outgoing or introverted? Are you a narcissist? Does perfectionism hold you back? Find out the answers to these questions and more with Psychology Today.</p>
+
+        </div>
+                </div>
+    <div class="tests--column-2">
+              <div class="tests--column-2__column_1">
+                      <div class="column-title">Self Assessments</div>
+                                <ul class="list-style-none">
+                              <li><a href="/gb/tests/health/autism-test" hreflang="en">Autism Test</a></li>
+                              <li><a href="/gb/tests/health/borderline-personality-disorder-test" hreflang="en">Borderline Personality Disorder Test</a></li>
+                              <li><a href="/gb/tests/health/depression-test" hreflang="en">Depression Test</a></li>
+                              <li><a href="/gb/tests/personality/emotional-intelligence-test" hreflang="en">Emotional Intelligence Test</a></li>
+                              <li><a href="/gb/tests/health/anxiety-test" hreflang="en">Generalized Anxiety Disorder Test</a></li>
+                              <li><a href="/gb/tests/personality/extroversion-introversion-test" hreflang="en">Introversion / Extroversion Test</a></li>
+                              <li><a href="/gb/tests/personality/narcissism-test" hreflang="en">Narcissism Test</a></li>
+                              <li><a href="/gb/tests/personality/ocd-test" hreflang="en">OCD Test</a></li>
+                              <li><a href="/gb/tests/personality/psychopathy-test" hreflang="en">Psychopathy Test</a></li>
+                              <li><a href="/gb/tests/personality/self-esteem-test" hreflang="en">Self-Esteem Test</a></li>
+                              <li><a href="/gb/tests/relationships/sex-personality-test" hreflang="en">Sex Personality Test</a></li>
+                              <li><a href="/gb/tests/health/mental-health-assessment" hreflang="en">Your Mental Health Today Test</a></li>
+                          </ul>
+                                <div><div class="self-tests--index-page-link">
+            <a href="/gb/tests" title="See All Self Tests">See All Self Tests</a>
+      </div>
+</div>
+                  </div>
+        <div class="tests--column-2__column_2">
+                      <div class="column-title">Quizzes</div>
+                                <ul class="list-style-none">
+                              <li><a href="/gb/quizzes/mood-regulation-test" hreflang="en">Can You Burst a Bad Mood?</a></li>
+                              <li><a href="/gb/quizzes/dating-red-flags-test" hreflang="en">Can You Spot Dating Red Flags?</a></li>
+                              <li><a href="/gb/quizzes/defense-mechanisms-test" hreflang="en">Can You Spot Defense Mechanisms?</a></li>
+                              <li><a href="/gb/quizzes/relationship-red-flags-test" hreflang="en">Can You Spot Red Flags In A Relationship?</a></li>
+                              <li><a href="/gb/quizzes/happiness-test" hreflang="en">Do You Know What Makes People Happy? </a></li>
+                              <li><a href="/gb/quizzes/multiple-intelligences-test" hreflang="en">Do You Know What the Different Intelligences Are?</a></li>
+                              <li><a href="/gb/quizzes/mind-myths-test" hreflang="en">Do You Still Believe These Myths About The Mind? </a></li>
+                              <li><a href="/gb/quizzes/human-nature-test" hreflang="en">Do You Understand Human Nature? </a></li>
+                              <li><a href="/gb/quizzes/false-memory-mandela-effect-test" hreflang="en">False Memories/Mandela Effect Quiz</a></li>
+                              <li><a href="/gb/quizzes/psychopathy-vs-sociopathy-test" hreflang="en">Psychopath vs. Sociopath Test</a></li>
+                              <li><a href="/gb/quizzes/verbal-iq-test" hreflang="en">Verbal IQ Test</a></li>
+                              <li><a href="/gb/quizzes/dark-personality-career-test" hreflang="en">Which Jobs Attract &quot;Dark&quot; Personalities? </a></li>
+                          </ul>
+                          <div><div class="self-tests--index-page-link">
+            <a href="/gb/quizzes" title="See All Quizzes">See All Quizzes</a>
+      </div>
+</div>
+                              </div>
+          </div>
+  </div>
+
+                                  </div>
+              </div>
+            </div>
+          </li>
+                      </ul>
+      <div class="main-nav--location-switch location-switch">
+                  <a href="https://www.psychologytoday.com/country-selector?domain=content&cc=gb&cl=en" class="location-switch--link">gb</a>
+
+              </div>
+              <div class="main-nav--toggle main-nav--toggle--search">
+          <a href="#" class="main-nav--toggle-link search-toggle">Search</a>
+          <div class="main-nav--panel d-none">
+            <div class="container">
+              <div class="main-nav--search">
+                <div id="block-navsearchblock" class="block">
+  
+    
+      <div class="h1 main-nav--search-block-form__header">Search</div>
+<form class="form--search-block-form" action="/gb/archive" method="get" id="search-block-form" accept-charset="UTF-8" autocomplete="off">
+  <div>
+    <div class="search form-group">
+      <div class="form-item form-type-textfield form-item-search-block-form">
+        <label for="edit-search-block-form--2">Search</label>
+        <input title="Enter the terms you wish to search for." placeholder="Search Archives" type="text" id="edit-search-block-form--2" name="search" value="" size="15" maxlength="128" class="form-text main-nav--search-block-form__input" />
+      </div>
+      <div class="form-actions form-wrapper" id="edit-actions">
+        <div class="btn-text icon search"></div>
+        <input class="main-nav--search-block-form__submit btn-info btn btn-default form-submit" type="submit" id="edit-submit" name="op" value="Search" />
+      </div>
+    </div>
+  </div>
+</form>
+
+  </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+          </nav>
+  </div>
+</div>
+
+  </div>
+<div class="find-therapist-subheader-block block" id="block-findtherapistsubheaderblock-2">
+  
+    
+      
+<div class="td_fat_subheader">
+  <div class="container">
+    <div class="td_fat_subheader__content">
+      
+<form name="prof_search" method="POST" action="https://www.psychologytoday.com/gb/counselling" id="SubHeader_TherpistForm" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_BalTopB_find" class="td_fat_subheader_form fat__callout_form find-therapist--form">
+  <div class="container-fat__callout_form" data-search-suggest="sussex" data-placeholder="Find Counselling (City or Postcode)" data-button="default" data-suggestions-url="https://www.psychologytoday.com/intl/search/suggestions?query={query}&amp;country-code=gb" data-search-url="https://www.psychologytoday.com/gb/counselling?search={query}" data-input-aria-label="Search input text" data-button-aria-label="Search button" data-mobile-fullscreen="true" data-menu="false" data-menu-items="[{&quot;label&quot;:&quot;Counsellors&quot;,&quot;suggestionsUrl&quot;:&quot;https:\/\/www.psychologytoday.com\/intl\/search\/suggestions?query={query}&amp;context=therapists&amp;country-code=gb&quot;,&quot;searchUrl&quot;:&quot;https:\/\/www.psychologytoday.com\/gb\/counselling?search={query}&quot;,&quot;title&quot;:&quot;&quot;},{&quot;label&quot;:&quot;Support Groups&quot;,&quot;suggestionsUrl&quot;:&quot;https:\/\/www.psychologytoday.com\/intl\/search\/suggestions?query={query}&amp;context=groups&amp;country-code=gb&quot;,&quot;searchUrl&quot;:&quot;https:\/\/www.psychologytoday.com\/gb\/groups?search={query}&quot;,&quot;title&quot;:&quot;&quot;}]">
+    <button type="submit" name="Submit" value="Search" title="" class="td_fat_subheader_submit d-none" aria-label="Search button"></button>
+    <div class="search td-search d-flex">
+      <div class="menu large d-none d-sm-inline-block">
+        <div>
+          <button class="td-search--menu-button large">Counsellors</button>
+        </div>
+        <ul class="td-search--menu list-style-none">
+                                                              <li class="selected">
+                <a href="#" data-selector-option-text="Counsellors" data-selector-option-value="https://www.psychologytoday.com/gb/counselling" title="">Counsellors</a>
+              </li>
+                                                                          <li>
+                <a href="#" data-selector-option-text="Support Groups" data-selector-option-value="https://www.psychologytoday.com/gb/groups" title="">Support Groups</a>
+              </li>
+                              </ul>
+      </div>
+      <div class="large search-suggest-modal has-menu td-search--input">
+        <div class="close-suggestions d-none"><button>x</button></div>
+        <div class="search-field-container search-suggest-modal large">
+          <input class="td_fat_subheader__search" type="text" name="search" placeholder="Find Counselling (City or Postcode)" aria-label="Search input text">
+          <button type="submit" name="Submit" value="Search" title="" class="td_fat_subheader_submit d-none" aria-label="Search button"></button>
+        </div>
+      </div>
+    </div>
+  </div>
+</form>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+  </div>
+
+</header>
+
+<div class="outer-layout-container">
+
+<main class="layout-content layout-container" >
+
+  
+  
+
+
+      <div class="layout-content-full">
+      <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+    </div>  
+    
+  <div class="layout-container--grid layout-container--has-right-rail retain-ltr-area-order">
+    <div class="layout-content-main">
+        <div>
+    <div id="block-pt-content" class="block">
+  
+    
+      
+
+<article data-history-node-id="1149429">
+      <div class="blog-entry--header">
+      <div class="blog-entry--header-first">
+
+        <div class="profile-card d-flex">
+          <div class="profile-card__photo">
+                        <a href="/gb/contributors/chloe-carmichael-phd">
+                          
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/dr._chloe_high_res_1_-removebg-preview.png.jpg?itok=b49EkKSi" width="128" height="159" alt="Chloe Carmichael Ph.D." title="Chloe Carmichael Ph.D." />
+
+
+
+      
+
+                        </a>
+                      </div>
+
+          <div class="profile-card__profile-copy">
+            <div class="h3 profile-card__profile-name">
+              <a href="/gb/contributors/chloe-carmichael-phd" hreflang="en">Chloe Carmichael Ph.D.</a>
+            </div>
+                          <div class="profile_card__blog-title">
+                <a href="/gb/blog/the-high-functioning-hotspot" hreflang="en">The High-Functioning Hotspot</a>
+              </div>
+                      </div>
+        </div>
+
+      </div>
+      <div class="blog-entry--header-second">
+                  <h6 class="blog-entry__topic--full text-uppercase-primary-large">
+            <a href="/gb/basics/mating" hreflang="en">Mating </a>
+          </h6>
+                <h1 class="blog-entry__title--full">
+          The Ultimate Guide to Breakups
+        </h1>
+        <h2 class="blog-entry__subtitle--full">
+            Breakups can be brutal. Here’s what you need to know!
+      </h2>
+
+                          <p class="blog-entry__date--full fine-print">
+                                    Posted <span class="blog_entry--date">August 21, 2020</span>
+
+                          <span class="blog_entry--full__review-info">
+                <span class="blog_entry--full__review-info-bar">|</span>
+                <a href="/gb/docs/editorial-process" class="blog_entry--full__review-info-link">
+                  <span class="blog_entry--full__review-info-icon"></span>
+                  <span class="blog_entry--full__review-info-text">Reviewed by Jessica Schrader</span>
+                </a>
+              </span>
+            
+                                                                                                                                                                      </p>
+        
+        <div class="pt-social-media blog-entry-divider">
+    <ul class="share-buttons">
+            <li>
+  <a title="Share on Facebook" class="facebook-share-button open-dialog" target="_blank" data-lang="en" href="https://facebook.com/dialog/share?app_id=220580041311284&amp;display=page&amp;href=https%3A//www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups&amp;redirect_uri=https%3A//www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" onclick="window.open(this.href,'newWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=640,height=480');return false;">
+    <div><img border="0" src="https://cdn2.psychologytoday.com/theme-assets/icons/icon-share-round-facebook-md.svg" alt="Share on Facebook" width="37" height="37" /><span class="visually-hidden">Share</span></div>
+  </a>
+</li>
+            <li>
+  <a title="Share on X" class="twitter-share-button open-dialog" target="_blank" data-lang="en" href="https://x.com/share?text=The%20Ultimate%20Guide%20to%20Breakups%20%7C%20Psychology%20Today&amp;url=https%3A//www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups&amp;related=PsychToday" onclick="window.open(this.href,'newWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=640,height=480');return false;">
+    <div><img border="0" src="https://cdn2.psychologytoday.com/theme-assets/icons/icon-share-round-twitter-md.svg" alt="Share on X" width="37" height="37" /><span class="visually-hidden">Tweet</span></div>
+  </a>
+</li>
+            <li>
+  <a title="Share on Bluesky" class="bluesky-share-button open-dialog" target="_blank" data-lang="en" href="https://bsky.app/intent/compose?text=The%20Ultimate%20Guide%20to%20Breakups%20%7C%20Psychology%20Today%20https%3A//www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" onclick="window.open(this.href,'newWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=640,height=480');return false;">
+    <div><img border="0" src="https://cdn2.psychologytoday.com/theme-assets/icons/icon-share-round-bluesky-blue.svg" alt="Share on Bluesky" width="37" height="37" /><span class="visually-hidden">Share on Bluesky</span></div>
+  </a>
+</li>
+            <li>
+  <a title="Share on LinkedIn" class="linkedin-share-button open-dialog" target="_blank" data-lang="en" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" onclick="window.open(this.href,'newWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=640,height=480');return false;">
+    <div><img border="0" src="https://cdn2.psychologytoday.com/theme-assets/icons/icon-share-round-linkedin-md.svg" alt="Share on LinkedIn" width="37" height="37" /><span class="visually-hidden">Share</span></div>
+  </a>
+</li>
+            <li><div class="form-item-type-email js-form-item form-item js-form-type-email form-item- js-form-item- form-no-label">
+        
+  <a title="Share via Email" class="email-share-button open-dialog" data-lang="en" href="mailto:?subject=Psychology%20Today%3A%20The%20Ultimate%20Guide%20to%20Breakups&amp;body=Hi%2C%0D%0A%0D%0AI%20thought%20you%27d%20be%20interested%20in%20this%20article%20on%20Psychology%20Today%3A%0D%0A%0D%0A%20The%20Ultimate%20Guide%20to%20Breakups%0D%0Ahttps%3A//www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups%3Feml%0D%0A%0D%0A%0D%0A---%0D%0AFind%20Counselling%3A%20https%3A//www.psychologytoday.com/gb&amp;destination=node/1149429">
+    <div><img border="0" src="https://cdn2.psychologytoday.com/theme-assets/icons/icon-share-round-email-md.svg" alt="Share via Email" width="37" height="37" /><span class="visually-hidden">Email</span></div>
+  </a>
+
+        </div>
+</li>
+        </ul>
+</div>
+
+      </div>
+      </div>
+  <div class="blog-entry--body">
+    <div class="blog-entry--body-first">
+              <div class="d-none d-xl-block">
+          
+            <div  class="pathways_card" >
+  <div class="pathways_card__header">
+    <span class="pathways_card__title_verified"></span>
+    <div class="h3 pathways_card__title">THE BASICS</div>
+  </div>
+  <ul>
+          <li class="swatch-primary">
+        <a href="/gb/basics/relationships" class="swatch-primary font-semi-bold" hreflang="en">Why Relationships Matter</a>
+      </li>
+    
+          <li class="swatch-primary">
+        <a href="/gb/quizzes/relationship-red-flags-test" class="swatch-primary font-semi-bold" hreflang="en">Take our Can You Spot Red Flags In A Relationship?</a>
+      </li>
+    
+          <li class="swatch-primary">
+        <a href="https://www.psychologytoday.com/gb/counselling?category=relationship-issues" class="swatch-primary font-semi-bold">Find counselling to strengthen relationships</a>
+      </li>
+      </ul>
+</div>
+
+      
+        </div>
+          </div>
+    <div class="blog-entry--body-second">
+      
+            
+<div class="field-name-body">
+                    <div class="insertArea">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img alt="Source: praetorianphoto/iStock" height="213" src="https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-08/istock-908957470_1.jpg?itok=gvpanUeG" title="Source: praetorianphoto/iStock" width="320"></div>
+<div class="caption"></div>
+<div class="subtext insertArea--origin">Source: praetorianphoto/iStock</div>
+</div>
+</div>
+</div>
+<p>We all know breakups can be incredibly painful. As a clinical psychologist who works with high-functioning people, I know that if you’re an intelligent and persistent person who likes to make things work, it can be mind-boggling to encounter a situation where no matter how much you want to make things work, the only thing to do is actually to give up and move on. Of course, it is almost impossible to make a breakup easy, but at least there are some strategies that can help make the process a little easier, and potentially help you to be better prepared to make good, healthy choices when you’re ready to date again.</p>
+<div class="markup-replacement-slot markup-replacement-slot-0" data-slot-position="0"></div>
+<p>Here are some tips that can help:</p>
+<ol>
+<li><strong>Don’t grieve alone</strong>. Losing a relationship can feel almost like a death of the relationship. We were not meant to grieve alone, so consider making sure that you’re always with a supportive friend or family member for the first week or two. Especially if you lived together or spent a lot of time together, you may be feeling a major void. Obviously, a friend or family member doesn’t fill the void, but at the very least it can be helpful to surround yourself with support during a loss. Some people even arrange to stay on a friend’s couch if need be, or have a friend stay with them, for the first days or weeks.</li>
+<li><strong>Experience healthy touch</strong>. Consider booking yourself some massages. On a certain level, part of what you’re experiencing may pertain to a sudden loss of touch and affection. Our bodies actually acclimate to certain frequencies of touch, so a breakup can feel like a double whammy: We are losing emotional support and simultaneously experiencing a dramatic decrease in the amount of physical affection we receive. While a massage certainly isn’t the same, it can help your body/mind to at least experience positive touch; plus massage has been shown to reduce cortisol levels (cortisol is a <a href="https://www.psychologytoday.com/gb/basics/stress" title="Psychology Today looks at stress" class="basics-link" hreflang="en">stress</a>-related <a href="https://www.psychologytoday.com/gb/basics/hormones" title="Psychology Today looks at hormone" class="basics-link" hreflang="en">hormone</a>, which may rise during breakups).</li>
+<li><strong>Open your eyes</strong>. You may want to make a list of the top five times when your ex hurt or disappointed you, or other negative points that may help you to realize that in fact the person is by no means perfect. We sometimes view our exes with rose-colored glasses, which can make it harder to move on. If you thought your ex was perfect but they broke up with you out of the blue, you might consider making their inability to make or keep a commitment to you as part of your list—sometimes just realizing that a person is actually not the stable, reliable “relationship person” we initially thought they were can help decrease that person’s desirability, thereby making it a little easier to move past them. Consider making this list a screensaver on your phone or having it somewhere else that’s easy to see, if you feel you may have your ex on an “but they were so perfect” pedestal that is making it hard to see things squarely. You may also want to ask a friend to help you recall problems or issues, if you are feeling stuck in the “but they were perfect” mindset.</li>
+<li><strong>Don’t be afraid</strong>. Sometimes we may obsess about the past as a way to avoid re-entering the <a href="https://www.psychologytoday.com/gb/basics/mating" title="Psychology Today looks at dating" class="basics-link" hreflang="en">dating</a> world, because on a certain level we are afraid of repeating whatever potential mistakes that may have led to our current situation. If you think this might be the case, make sure you find ways to learn from your past relationship and have support as you ponder dating again. Consider checking out my book, <em><a href="https://www.drchloe.com/dating/">Dr. Chloe’s 10 Commandments of Dating</a></em>, or other dating books that resonate with you. Whatever book you get, consider getting it in print as well as on audio book, since sometimes listening to a <a href="https://www.psychologytoday.com/gb/basics/self-help" title="Psychology Today looks at self-help" class="basics-link" hreflang="en">self-help</a> book read by a friendly-yet-focused voice can be almost like listening to a supportive, knowledgeable friend giving you a pep talk—and who doesn’t need that, especially during a breakup? Of course print or e-books are great too for quiet contemplation. Sometimes when we want to change habits or really absorb material, it is helpful to expose ourselves to it in multiple ways, so consider letting yourself consume whatever book you choose with your eyes as well as your ears.</li>
+<li> <strong>Fill your brain with new experiences</strong>. Part of why breakups can be so painful is that we may feel that everything in our current environment reminds us of our ex: whether being at home and thinking about how you and your ex used to spend time there, or going to work and thinking of how your ex used to meet you for lunch nearby, it can sometimes seem as if everything in our life reminds us of that person. One way to change this is to deliberately create new experiences to help the old memories start to recede. New experiences can also subtly reassure us that there are other possibilities in life. Whether it’s traveling somewhere new, taking a class in something you’ve always wanted to try, or even finding a really gripping novel, find ways to give yourself new, positive experiences that are independent of your ex.</li>
+<li><strong>Get your rest, but also get out</strong>. You may find that sleep is the best medicine in certain moments. Your brain needs to process what happened, and sometimes that happens best when you’re at rest. A little hibernation can be restorative, so don’t be afraid to to put on an audio book, close your eyes, and drift away—I mention an audio book because sometimes it’s nice to have something for your mind to follow rather than leaving yourself “alone with your thoughts” while you try to rest, especially during a breakup. While it’s good to get your rest, also know that sometimes a simple walk in fresh air or chat with a friend can do wonders if you start to think you might be overdoing it on the hibernation.</li>
+<li><strong>Look out for <a href="https://www.psychologytoday.com/gb/basics/loneliness" title="Psychology Today looks at loneliness" class="basics-link" hreflang="en">loneliness</a></strong>. One of the most confounding things about a breakup is that you may be used to relying on your ex for emotional support—and now here you are in need of extra emotional support right now because of the breakup, yet you’re also experiencing a sudden decrease in the availability of support since your ex is gone. It’s like being very hungry yet being blocked from your kitchen at the exact moment you need to eat. You may benefit from a “breakup buddy” who agrees to be available for you to call for lifeline situations when you’re struggling; and potentially plan your calendar so that you’re proactively booked with friends for the next week or two. Surrounding yourself with supportive friends can also help bolster your sense of <a href="https://www.psychologytoday.com/gb/basics/self-esteem" title="Psychology Today looks at self-esteem" class="basics-link" hreflang="en">self-esteem</a> (self-esteem can suffer during breakups) plus it can make it easier for you to see that you can be happy even without your ex. Friends can also be helpful if you need a pep talk or just want some perspective.</li>
+<li><strong>Remember your last ex</strong>. If you’re feeling like you’ll “never get over” your current breakup, it can be helpful to remember previous breakups where you may have felt the same—even if it’s thinking back to how your high school sweetheart seemed like the one for sure, and remembering how intense those feelings were at the time, then realizing that in fact you went on to meet someone you liked even better (possibly your current ex). Take refuge in knowing that you’ll likely move forward and meet another person who you may like even better than your ex one day, even if that seems as impossible now as it did to your high school self years ago. This can help you to put things in perspective and remember that you have gotten over breakups before; and you have been pleasantly surprised to meet someone new before in your life—so odds are it may happen again! If you’re worried about the breakup part happening again too, you may want to be sure to see item 4 in this list about making sure you learn from life’s experiences.</li>
+</ol>
+<div class="markup-replacement-slot markup-replacement-slot-1" data-slot-position="1"></div>
+<p>Whatever you decide to do, please take good care of yourself. Know that your desire for a strong relationship is nothing to feel ashamed of, and take refuge in knowing that you’re not alone—by definition, everyone who isn’t in a committed relationship shares in common with you the fact that they haven’t found “their person” yet, so you’re totally normal in this regard. The key is to take good care of yourself so you can move forward in a healthy way and find fulfillment!</p>
+<div class="markup-replacement-slot markup-replacement-slot-2" data-slot-position="2"></div>
+<p>You can also check my vlog on The Ultimate Guide to Breakups here.</p>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/eZutg3jeR2s?autoplay=0&amp;start=0&amp;rel=0"></iframe>
+</div>
+<div  class="d-xl-none pathways_card" >
+  <div class="pathways_card__header">
+    <span class="pathways_card__title_verified"></span>
+    <div class="h3 pathways_card__title">THE BASICS</div>
+  </div>
+  <ul>
+          <li class="swatch-primary">
+        <a href="/gb/basics/relationships" class="swatch-primary font-semi-bold" hreflang="en">Why Relationships Matter</a>
+      </li>
+    
+          <li class="swatch-primary">
+        <a href="/gb/quizzes/relationship-red-flags-test" class="swatch-primary font-semi-bold" hreflang="en">Take our Can You Spot Red Flags In A Relationship?</a>
+      </li>
+    
+          <li class="swatch-primary">
+        <a href="https://www.psychologytoday.com/gb/counselling?category=relationship-issues" class="swatch-primary font-semi-bold">Find counselling to strengthen relationships</a>
+      </li>
+      </ul>
+</div>
+
+            </div>
+
+              
+      
+      <div class="social-links-bottom">
+        <div class="pt-social-media blog-entry-divider">
+  <p class="share-this-post-label">Share this post
+    <ul class="share-this-post--share-buttons">
+            <li class="share-this-post--share-button-wrapper">
+  <a title="Share on Facebook" class="facebook-share-button open-dialog" target="_blank" data-lang="en" href="https://facebook.com/dialog/share?app_id=220580041311284&amp;display=page&amp;href=https%3A//www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups&amp;redirect_uri=https%3A//www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" onclick="window.open(this.href,'newWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=640,height=480');return false;">
+    <img border="0" src="https://cdn2.psychologytoday.com/theme-assets/icons/icon-share-facebook-gray.svg" alt="Share on Facebook" width="15" height="15" />
+          <span>Facebook</span>
+      </a>
+</li>
+            <li class="share-this-post--share-button-wrapper">
+  <a title="Share on X" class="twitter-share-button open-dialog" target="_blank" data-lang="en" href="https://x.com/share?text=The%20Ultimate%20Guide%20to%20Breakups%20%7C%20Psychology%20Today&amp;url=https%3A//www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups&amp;related=PsychToday" onclick="window.open(this.href,'newWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=640,height=480');return false;">
+    <img border="0" src="https://cdn2.psychologytoday.com/theme-assets/icons/icon-share-x-gray.svg" alt="Share on X" width="15" height="15" />
+      </a>
+</li>
+            <li class="share-this-post--share-button-wrapper">
+  <a title="Share on Bluesky" class="bluesky-share-button open-dialog" target="_blank" data-lang="en" href="https://bsky.app/intent/compose?text=The%20Ultimate%20Guide%20to%20Breakups%20%7C%20Psychology%20Today%20https%3A//www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" onclick="window.open(this.href,'newWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=640,height=480');return false;">
+    <img border="0" src="https://cdn2.psychologytoday.com/theme-assets/icons/icon-share-bluesky-gray.svg" alt="Share on Bluesky" width="15" height="15" />
+          <span>Bluesky</span>
+      </a>
+</li>
+            <li class="share-this-post--share-button-wrapper">
+  <a title="Share on LinkedIn" class="linkedin-share-button open-dialog" target="_blank" data-lang="en" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" onclick="window.open(this.href,'newWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=640,height=480');return false;">
+    <img border="0" src="https://cdn2.psychologytoday.com/theme-assets/icons/icon-share-linkedin-gray.svg" alt="Share on LinkedIn" width="15" height="15" />
+          <span>Linkedin</span>
+      </a>
+</li>
+            <li class="share-this-post--share-button-wrapper"><div class="form-item-type-email js-form-item form-item js-form-type-email form-item- js-form-item- form-no-label">
+        
+  <a title="Share via Email" class="email-share-button open-dialog" data-lang="en" href="mailto:?subject=Psychology%20Today%3A%20The%20Ultimate%20Guide%20to%20Breakups&amp;body=Hi%2C%0D%0A%0D%0AI%20thought%20you%27d%20be%20interested%20in%20this%20article%20on%20Psychology%20Today%3A%0D%0A%0D%0A%20The%20Ultimate%20Guide%20to%20Breakups%0D%0Ahttps%3A//www.psychologytoday.com/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups%3Feml%0D%0A%0D%0A%0D%0A---%0D%0AFind%20Counselling%3A%20https%3A//www.psychologytoday.com/gb&amp;destination=node/1149429">
+    <img border="0" src="https://cdn2.psychologytoday.com/theme-assets/icons/icon-share-email-gray.svg" alt="Share via Email" width="15" height="15" />
+          <span>Email</span>
+      </a>
+
+        </div>
+</li>
+        </ul>
+</div>
+
+      </div>
+
+              <div class="blog-entry--subscribe-form">
+          <form class="pt-audience-blog-entry-online-subscriber-form" data-drupal-selector="pt-audience-blog-entry-online-subscriber-form" action="/gb/blog/the-high-functioning-hotspot/202008/the-ultimate-guide-breakups" method="post" id="pt-audience-blog-entry-online-subscriber-form" accept-charset="UTF-8">
+  <div id="pt-audience--subscribe-form--wrapper" data-drupal-selector="edit-form-wrapper" class="js-form-wrapper form-wrapper"><div class="pt-subscribe-title">Don&#039;t miss an update! Get posts from Chloe Carmichael Ph.D. direct to your inbox</div><div class="pt-email-field-wrapper js-form-wrapper form-wrapper" style="position:relative;" data-drupal-selector="edit-email-group" id="edit-email-group"><div class="form-item-type-email js-form-item form-item js-form-type-email form-item-email js-form-item-email form-no-label">
+        <input placeholder="Email address" class="pt-email-input form-email required" aria-label="Email address" autocomplete="email" data-drupal-selector="edit-email" type="email" id="edit-email" name="email" value="" size="60" maxlength="254" required="required" aria-required="true" />
+
+        </div>
+<input class="pt-email-signup-button use-ajax button js-form-submit form-submit" data-drupal-selector="edit-subscribe" type="submit" id="edit-subscribe" name="op" value="Sign Me Up" />
+</div>
+<div class="subscribe-error-message" style="display: none;"><div class="warning"></div><div class="message"><p>There was a problem adding your email address. Please try again.</p></div></div><p class="description">By submitting your information you agree to the Psychology Today <a href="https://docs.psychologytoday.com/contentweb/terms/en/latest" target="_blank">Terms & Conditions</a> and <a href="https://docs.psychologytoday.com/contentweb/privacy-policy/en/latest" target="_blank">Privacy Policy</a></p><div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"></div>
+</div>
+<input autocomplete="off" data-drupal-selector="form-eoujqdfkwk7vhmqplfczczyvqilnsbtgiciko0qgnjg" type="hidden" name="form_build_id" value="form-eOujqDFKWK7VhmqpLfczCzYVqIlnSBTGicIkO0QGnjg" />
+<input data-drupal-selector="edit-pt-audience-blog-entry-online-subscriber-form" type="hidden" name="form_id" value="pt_audience_blog_entry_online_subscriber_form" />
+
+</form>
+
+        </div>
+      
+          </div>
+  </div>
+
+  
+</article>
+
+  </div>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-none block" id="block-adblock-20">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1424993595349-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1424993595349-0')
+    </script>
+  </div>
+</div>
+
+  </div>
+
+  </div>
+
+        <div class="region__content-main-additional">
+    <div id="block-blogentryaboutauthor" class="block block--content-main-additional">
+
+  <div class="layout-container--grid--content-main-additional">
+          <div class="layout-content-left-rail">
+        <div class="h2 block-title">About the Author</div>
+      </div>
+    
+    <div class="layout-content-main">
+              <div class="about-author-card">
+  <div class="about-author__photo">
+          <a href="/gb/contributors/chloe-carmichael-phd" hreflang="en">
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/styles/thumbnail_115x140/public/field_user_blogger_photo/dr._chloe_high_res_1_-removebg-preview.png.jpg?itok=dhJKMGRU" width="115" height="140" alt="Chloe Carmichael Ph.D." title="Chloe Carmichael Ph.D." />
+
+
+
+      </a>
+      </div>
+  <div class="about-author__copy">
+          <a href="/gb/contributors/chloe-carmichael-phd" class="about-author-bio" hreflang="en">
+            <p><strong>Chloe Carmichael, Ph.D.</strong>, a licensed clinical psychologist, is the author of <em>Nervous Energy: Harness the Power of Your Anxiety.</em></p>
+
+      </a>
+              <div class="about-author-online">
+        <div class="h3 heading--inline">Online:</div> <a href="https://drchloe.com/free-speech">Can I Say That? Why Free Speech Matters and How to Use It Fearlessly</a>, <a href="https://Facebook.com/drchloecarmichael">Facebook</a>, <a href="https://twitter.com/drchloe_">X</a>, <a href="https://linkedin.com/chloecarmichael">LinkedIn</a>, <a href="https://www.instagram.com/drchloe_/">Instagram</a>
+      </div>
+        
+  </div>
+</div>
+
+          </div>
+  </div>
+</div>
+<div id="block-blogentrymorefromauthor-3" class="layout-content layout-container block--more-from-author">
+      <div class="h2 block-title">More from Chloe Carmichael Ph.D.</div>
+    <div class="more-from-author-block-content"></div>
+</div>
+<div id="block-blogentrymorefrompt-3" class="layout-content layout-container block--more-from-pt">
+      <div class="h2 block-title">More from Psychology Today</div>
+    <div class="more-from-pt-block-content grid--container grid--container-1-1-1-1"></div>
+</div>
+
+  </div>
+
+    </div>
+    <aside class="layout-content-right-rail" role="complementary">
+        <div>
+    <div class="pt-ad pt-ad--multisize d-none d-lg-block d-xl-block pt-ad--scroll block" id="block-ad-scroll-300x-right-www">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1391201642419-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1391201642419-0')
+    </script>
+  </div>
+</div>
+
+  </div>
+
+
+
+<div class="card-group">
+  <div class="card-group__body clinical-pathway-or-most-popular-content"></div>
+</div>
+<div class="views-element-container block blog__authors-block" id="block-views-block-blog-authors-block-1">
+  
+    
+      <div><div class="js-view-dom-id-53c04eac77dca787afd616b5d0224ee8b6e6a4f3a34d31d9aec854d12f0f6845">
+  
+  
+  
+
+  
+  
+  
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+<div class="pt-ad pt-ad--300x600 d-none d-lg-block d-xl-block block" id="block-ad-blog-entry-300x600-right2-www-site">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1390414551849-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1390414551849-0')
+    </script>
+  </div>
+</div>
+
+  </div>
+<div id="block-findatherapistblock-4" class="block">
+  
+    
+      
+
+
+    
+
+
+<div class="country find-therapist">
+  <div class="find-therapist--main">
+    <div class="h2 find-therapist--title"><a href="https://www.psychologytoday.com/gb/counselling" title="Find Relationship Issues Counselling">Find Relationship Issues Counselling</a></div>
+    <p class="find-therapist--copy">
+            Get the help you need from a counsellor near you–a FREE service from Psychology Today.
+      </p>
+    <form  action="https://www.psychologytoday.com/gb/counselling" method="GET" target="_top" autocomplete="off" autocorrect="off" autocapitalize="off" data-event-category="OutboundLink" data-event-action="Click" data-event-label="FAT_Search_Block" id="td_search_form" class="find-therapist--form">
+      <div class="container-fat__callout_form" data-search-suggest="sussex" data-placeholder="City or Postcode" data-size="medium" data-mobile-fullscreen="true" data-suggestions-url="https://www.psychologytoday.com/intl/search/suggestions?query={query}&amp;category=relationship-issues&amp;country-code=gb" data-search-url="https://www.psychologytoday.com/gb/counselling?search={query}&amp;category=relationship-issues" data-input-aria-label="Search input text" data-button-aria-label="Search button" data-menu-items="[{&quot;label&quot;:&quot;Counsellors&quot;,&quot;suggestionsUrl&quot;:&quot;https:\/\/www.psychologytoday.com\/intl\/search\/suggestions?query={query}&amp;context=therapists&amp;country-code=gb&quot;,&quot;searchUrl&quot;:&quot;https:\/\/www.psychologytoday.com\/gb\/counselling?search={query}&quot;,&quot;title&quot;:&quot;&quot;},{&quot;label&quot;:&quot;Support Groups&quot;,&quot;suggestionsUrl&quot;:&quot;https:\/\/www.psychologytoday.com\/intl\/search\/suggestions?query={query}&amp;context=groups&amp;country-code=gb&quot;,&quot;searchUrl&quot;:&quot;https:\/\/www.psychologytoday.com\/gb\/groups?search={query}&quot;,&quot;title&quot;:&quot;&quot;}]" data-menu="false">
+        <div class="search td-search d-flex">
+          <div class="td-search--input">
+            <div class="search-field-container">
+              <label for="find_therapist_search" class="d-none">
+                City or Postcode
+              </label>
+              <input id="find_therapist_search" type="text" name="search" placeholder="City or Postcode" aria-label="Search input text">
+              <button type="submit" value="Search" title="" class="search-btn default" aria-label="Search button"></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </form>
+    <div class="find-therapist--image d-flex">
+      
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/default_images/counseling.jpg" width="310" height="300" alt="Counselling" title="Counselling" />
+
+
+      
+    </div>
+          <div class="h3 find-therapist--regions-title"></div>
+      
+      <hr>
+        <div class="h3 find-therapist--cities-title">Cities</div>
+    
+      <ul class="find-therapist--cities list-style-none">
+              <li><a href="https://www.psychologytoday.com/gb/counselling/nir/belfast?category=relationship-issues" title="Find Relationship Issues Counselling in Belfast" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Belfast</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/birmingham?category=relationship-issues" title="Find Relationship Issues Counselling in Birmingham" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Birmingham</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/bournemouth?category=relationship-issues" title="Find Relationship Issues Counselling in Bournemouth" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Bournemouth</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/brighton?category=relationship-issues" title="Find Relationship Issues Counselling in Brighton" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Brighton</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/bristol?category=relationship-issues" title="Find Relationship Issues Counselling in Bristol" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Bristol</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/cambridge?category=relationship-issues" title="Find Relationship Issues Counselling in Cambridge" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Cambridge</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/wls/cardiff?category=relationship-issues" title="Find Relationship Issues Counselling in Cardiff" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Cardiff</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/london/central-london?category=relationship-issues" title="Find Relationship Issues Counselling in Central London" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Central London</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/cheltenham?category=relationship-issues" title="Find Relationship Issues Counselling in Cheltenham" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Cheltenham</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/coventry?category=relationship-issues" title="Find Relationship Issues Counselling in Coventry" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Coventry</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/london/east-london?category=relationship-issues" title="Find Relationship Issues Counselling in East London" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">East London</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/sct/edinburgh?category=relationship-issues" title="Find Relationship Issues Counselling in Edinburgh" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Edinburgh</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/exeter?category=relationship-issues" title="Find Relationship Issues Counselling in Exeter" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Exeter</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/sct/glasgow?category=relationship-issues" title="Find Relationship Issues Counselling in Glasgow" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Glasgow</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/leeds?category=relationship-issues" title="Find Relationship Issues Counselling in Leeds" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Leeds</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/leicester?category=relationship-issues" title="Find Relationship Issues Counselling in Leicester" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Leicester</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/liverpool?category=relationship-issues" title="Find Relationship Issues Counselling in Liverpool" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Liverpool</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/london?category=relationship-issues" title="Find Relationship Issues Counselling in London" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">London</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/manchester?category=relationship-issues" title="Find Relationship Issues Counselling in Manchester" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Manchester</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/milton-keynes?category=relationship-issues" title="Find Relationship Issues Counselling in Milton Keynes" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Milton Keynes</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/newcastle-upon-tyne?category=relationship-issues" title="Find Relationship Issues Counselling in Newcastle upon Tyne" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Newcastle upon Tyne</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/london/north-london?category=relationship-issues" title="Find Relationship Issues Counselling in North London" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">North London</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/london/north-west-london?category=relationship-issues" title="Find Relationship Issues Counselling in North West London" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">North West London</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/northampton?category=relationship-issues" title="Find Relationship Issues Counselling in Northampton" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Northampton</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/norwich?category=relationship-issues" title="Find Relationship Issues Counselling in Norwich" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Norwich</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/nottingham?category=relationship-issues" title="Find Relationship Issues Counselling in Nottingham" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Nottingham</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/oxford?category=relationship-issues" title="Find Relationship Issues Counselling in Oxford" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Oxford</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/sheffield?category=relationship-issues" title="Find Relationship Issues Counselling in Sheffield" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Sheffield</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/london/south-east-london?category=relationship-issues" title="Find Relationship Issues Counselling in South East London" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">South East London</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/london/south-london?category=relationship-issues" title="Find Relationship Issues Counselling in South London" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">South London</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/london/south-west-london?category=relationship-issues" title="Find Relationship Issues Counselling in South West London" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">South West London</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/southampton?category=relationship-issues" title="Find Relationship Issues Counselling in Southampton" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Southampton</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/wls/swansea?category=relationship-issues" title="Find Relationship Issues Counselling in Swansea" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Swansea</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/swindon?category=relationship-issues" title="Find Relationship Issues Counselling in Swindon" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Swindon</a></li>
+              <li><a href="https://www.psychologytoday.com/gb/counselling/eng/london/west-london?category=relationship-issues" title="Find Relationship Issues Counselling in West London" data-event-label="PT_City" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">West London</a></li>
+          </ul>
+  
+  </div>
+  <footer>
+    <div class="find-therapist--footer">
+      <span class="find-therapist--footer-cta">Are you a Counsellor?</span>
+      <a href="https://join.psychologytoday.com/gb/signup?src=WWWCIT" class="find-therapist--footer-link">Get Listed Today</a>
+    </div>
+  </footer>
+</div>
+
+  </div>
+
+  </div>
+
+    </aside>
+
+  </div>
+
+      <div class="layout-content-full">
+        <div>
+    <div id="block-blogentrymorefromauthor" class="layout-content layout-container">
+      <div class="h2 block-title">More from Chloe Carmichael Ph.D.</div>
+    <div class="more-from-author-block-content"></div>
+</div>
+<div id="block-blogentrymorefrompt" class="layout-content layout-container">
+      <div class="h2 block-title">More from Psychology Today</div>
+    <div class="more-from-pt-block-content grid--container grid--container-1-1-1-1"></div>
+</div>
+
+  </div>
+
+    </div>
+  
+
+</main>
+<footer role="contentinfo" class="footer">
+    <div>
+    <div class="pt-ad pt-ad--728x90 d-none d-lg-block d-xl-block d-lg-flex d-xl-flex justify-content-center block" id="block-adblock-21">
+  
+    
+      <div class="pt-ad--container">
+    <div id="div-gpt-ad-1390414551849-1" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1390414551849-1')
+    </script>
+  </div>
+</div>
+
+  </div>
+<div id="block-footerblock" class="block">
+  
+    
+      
+
+
+
+
+
+
+
+<section class="footer--section-first footer--section">
+  <div class="container">
+    <div class="footer--section-first--wrapper d-flex">
+      <div class="footer--social-media">
+        <div class="main-nav--logo logo logo-en">
+          <a href="https://www.psychologytoday.com/gb" title="Psychology Today">Psychology Today</a>
+        </div>
+        <div class="footer--social-media--links d-flex">
+                      <div class="footer--social-media--links--icon">
+              <a href="https://www.facebook.com/psychologytoday" title="Psychology Today on Facebook">
+                <img width="30" height="29" loading="lazy" class="svg" alt="Facebook" src="https://cdn2.psychologytoday.com/theme-assets/logo/logo-facebook-blue.svg">
+              </a>
+            </div>
+                                <div class="footer--social-media--links--icon">
+              <a href="https://bsky.app/profile/psychologytoday.com" title="Psychology Today on Bluesky">
+                <img width="30" height="30" loading="lazy" class="svg" alt="Bluesky" src="https://cdn2.psychologytoday.com/theme-assets/logo/logo-bluesky-blue.svg">
+              </a>
+            </div>
+                                <div class="footer--social-media--links--icon">
+              <a href="https://x.com/psychtoday" title="Psychology Today on X">
+                <img width="30" height="29" loading="lazy" class="svg" alt="X" src="https://cdn2.psychologytoday.com/theme-assets/logo/logo-twitter-blue.svg">
+              </a>
+            </div>
+                                <div class="footer--social-media--links--icon">
+              <a href="https://www.instagram.com/psych_today" title="Psychology Today on Instagram">
+                <img width="30" height="30" loading="lazy" class="svg" alt="Instagram" src="https://cdn2.psychologytoday.com/theme-assets/logo/logo-instagram-blue.svg">
+              </a>
+            </div>
+                                <div class="footer--social-media--links--icon">
+              <a href="https://www.linkedin.com/company/psychology-today" title="Psychology Today on LinkedIn">
+                <img width="30" height="30" loading="lazy" class="svg" alt="LinkedIn" src="https://cdn2.psychologytoday.com/theme-assets/logo/logo-linkedin-blue.svg">
+              </a>
+            </div>
+                  </div>
+      </div>
+      <div class="footer--navigation">
+        <div class="footer-menu--wrapper">
+          <div class="footer-second--menu">
+            <div class="h3 menu--title">About & Policies</div>
+            
+              <ul class="list-style-none">
+              <li class="pt-footer-link">
+        <a href="/gb/docs/about-psychology-today" hreflang="en" data-drupal-link-system-path="node/5000407">About</a>
+              </li>
+          <li class="pt-footer-link">
+        <a href="/gb/docs/editorial-process" hreflang="en" data-drupal-link-system-path="node/5000410">Editorial Process</a>
+              </li>
+          <li class="pt-footer-link">
+        <a href="https://docs.psychologytoday.com/contentweb/privacy-policy/en/latest" title=" Política de privacidad" hreflang="en">Privacy</a>
+              </li>
+          <li class="pt-footer-link">
+        <a href="https://docs.psychologytoday.com/contentweb/terms/en/latest" title="Términos y Condiciones" hreflang="en">Terms</a>
+              </li>
+          <li class="pt-footer-link">
+        <a href="/gb/docs/accessibility" hreflang="en" data-drupal-link-system-path="node/5000099">Accessibility</a>
+              </li>
+                <li class="pt-footer-consent-link">
+        <a href="javascript:revisitCkyConsent();">Do Not Sell Or Share My Personal Information</a>
+      </li>
+          </ul>
+  
+
+
+          </div>
+          <div class="footer-first--menu">
+            <div class="h3 menu--title">Get Help</div>
+            <div class="h3 main-nav--basics-link-title">Talk to Someone</div>
+<ul class="list-style-none main-nav--basics-links">
+      <li class="main-nav--basics-link">
+      <a href="https://www.psychologytoday.com/gb/counselling" title="Find Counselling">Find Counselling</a>
+    </li>
+            <li class="main-nav--basics-link">
+      <a href="https://www.psychologytoday.com/gb/groups" title="Find a Support Group">Find a Support Group</a>
+    </li>
+        <li class="main-nav--basics-link">
+      <a href="https://www.psychologytoday.com/gb/counselling?category=online-counselling" title="Find Online Therapy">Find Online Therapy</a>
+    </li>
+  </ul>
+
+          </div>
+        </div>
+        <div class="country--flag-name">
+  <a href="https://www.psychologytoday.com/country-selector?domain=content&cc=gb&cl=en">
+    <img loading="lazy" width="29" height="20" src="https://cdn2.psychologytoday.com/assets/flags/flag-lg-gb.svg" alt="United Kingdom" />
+    <span class="flag--name">United Kingdom</span>
+  </a>
+</div>
+
+      </div>
+    </div>
+  </div>
+</section>
+<section class="footer--section-second footer--section">
+  <div class="container">
+    <div class="footer--navigation d-flex">
+      <div class="views-element-container">
+<div class="js-view-dom-id-cfb3661f912384012d5cd10d6d84e7ec21bbbc12cccffb3aa5e859728aafdd07 magazine-footer-block">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="magazine-footer-block__container">
+    <div class="magazine-row">
+          <div class="views-row"><div class="magazine-issue magazine-issue--magazine-cover">
+  <div class="magazine-cover__cover magazine-thumbnail">
+    <a href="https://www.psychologytoday.com/gb/magazine/archive/2026/09" title="September 2026">
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-08/2026-09.png.jpg?itok=4OW8Fjd3" width="384" height="504" alt="September 2026 magazine cover" title="The Power of Enough" />
+
+
+
+      </a>
+  </div>
+</div>
+</div>
+    <div class="views-row"><div class="magazine-issue magazine-issue--magazine-cover">
+  <div class="magazine-cover__cover magazine-thumbnail">
+    <a href="https://www.psychologytoday.com/gb/magazine/archive/2026/07" title="July 2026">
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-06/2026-07.png.jpg?itok=DlKFbn6e" width="384" height="504" alt="July 2026 magazine cover" title="26 Keys to Thriving" />
+
+
+
+      </a>
+  </div>
+</div>
+</div>
+    <div class="views-row"><div class="magazine-issue magazine-issue--magazine-cover">
+  <div class="magazine-cover__cover magazine-thumbnail">
+    <a href="https://www.psychologytoday.com/gb/magazine/archive/2026/05" title="May 2026">
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-04/2026-05.png.jpg?itok=0bF8jd5M" width="384" height="504" alt="May 2026 magazine cover" title="Begin Again" />
+
+
+
+      </a>
+  </div>
+</div>
+</div>
+    <div class="views-row"><div class="magazine-issue magazine-issue--magazine-cover">
+  <div class="magazine-cover__cover magazine-thumbnail">
+    <a href="https://www.psychologytoday.com/gb/magazine/archive/2026/03" title="March 2026">
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-03/psychology-today-magazine-2026-03.jpg?itok=6L88mQwU" width="384" height="504" alt="March 2026 magazine cover" title="The Friend Effect" />
+
+
+
+      </a>
+  </div>
+</div>
+</div>
+    <div class="views-row"><div class="magazine-issue magazine-issue--magazine-cover">
+  <div class="magazine-cover__cover magazine-thumbnail">
+    <a href="https://www.psychologytoday.com/gb/magazine/archive/2026/01" title="January 2026">
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2025-12/2026-01.png.jpg?itok=x9v5Amu5" width="384" height="504" alt="January 2026 magazine cover" title="Find Your Purpose" />
+
+
+
+      </a>
+  </div>
+</div>
+</div>
+    <div class="views-row"><div class="magazine-issue magazine-issue--magazine-cover">
+  <div class="magazine-cover__cover magazine-thumbnail">
+    <a href="https://www.psychologytoday.com/gb/magazine/archive/2025/11" title="November 2025">
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2025-10/2025-11.png.jpg?itok=Hnx0r73x" width="384" height="504" alt="November 2025 magazine cover" title="Healing Family Splits" />
+
+
+
+      </a>
+  </div>
+</div>
+</div>
+
+    </div>
+
+          <a href="https://subscribe.psychologytoday.com" class="btn btn-info btn-md-cta" title="Subscribe to Psychology Today Magazine">Subscribe Today</a>
+      </div>
+
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+</section>
+<section class="footer--section-third footer--section">
+  <div class="container">
+    <div class="footer--navigation">
+      <div class="footer-menu--wrapper">
+        <div class="footer-second--menu">
+          <div class="h3 menu--title">About & Policies</div>
+          
+              <ul class="list-style-none">
+              <li class="pt-footer-link">
+        <a href="/gb/docs/about-psychology-today" hreflang="en" data-drupal-link-system-path="node/5000407">About</a>
+              </li>
+          <li class="pt-footer-link">
+        <a href="/gb/docs/editorial-process" hreflang="en" data-drupal-link-system-path="node/5000410">Editorial Process</a>
+              </li>
+          <li class="pt-footer-link">
+        <a href="https://docs.psychologytoday.com/contentweb/privacy-policy/en/latest" title=" Política de privacidad" hreflang="en">Privacy</a>
+              </li>
+          <li class="pt-footer-link">
+        <a href="https://docs.psychologytoday.com/contentweb/terms/en/latest" title="Términos y Condiciones" hreflang="en">Terms</a>
+              </li>
+          <li class="pt-footer-link">
+        <a href="/gb/docs/accessibility" hreflang="en" data-drupal-link-system-path="node/5000099">Accessibility</a>
+              </li>
+                <li class="pt-footer-consent-link">
+        <a href="javascript:revisitCkyConsent();">Do Not Sell Or Share My Personal Information</a>
+      </li>
+          </ul>
+  
+
+
+        </div>
+        <div class="footer-first--menu">
+          <div class="h3 menu--title">Get Help</div>
+          <div class="h3 main-nav--basics-link-title">Talk to Someone</div>
+<ul class="list-style-none main-nav--basics-links">
+      <li class="main-nav--basics-link">
+      <a href="https://www.psychologytoday.com/gb/counselling" title="Find Counselling">Find Counselling</a>
+    </li>
+            <li class="main-nav--basics-link">
+      <a href="https://www.psychologytoday.com/gb/groups" title="Find a Support Group">Find a Support Group</a>
+    </li>
+        <li class="main-nav--basics-link">
+      <a href="https://www.psychologytoday.com/gb/counselling?category=online-counselling" title="Find Online Therapy">Find Online Therapy</a>
+    </li>
+  </ul>
+
+        </div>
+      </div>
+      <div class="country--flag-name">
+  <a href="https://www.psychologytoday.com/country-selector?domain=content&cc=gb&cl=en">
+    <img loading="lazy" width="29" height="20" src="https://cdn2.psychologytoday.com/assets/flags/flag-lg-gb.svg" alt="United Kingdom" />
+    <span class="flag--name">United Kingdom</span>
+  </a>
+</div>
+
+    </div>
+    <div class="footer--copyright d-flex">
+      <p>Psychology Today &copy; 2026 Sussex Publishers, LLC</p>
+    </div>
+  </div>
+</section>
+
+  </div>
+
+  </div>
+
+</footer>
+
+</div>
+<div id="mobile-menu-container">
+  <div id="block-mobilenavtoplevelmenu" class="block">
+  
+    
+      <div class="sidebar sidebar-main" data-sidebar-location="main">
+  <div class="sidebar__header">
+    <a class="sidebar-back-arrow" data-sidebar-parent="main">Back</a>
+    <div class="sidebar__logo">
+      <div  class="h1 logo logo-en"><a href="/gb">Psychology Today</a></div>
+    </div>
+  </div>
+  <ul class="sidenav">
+    <li>
+      <a href="/gb">
+        <span class="icon icon-left icon-home"></span>
+        Home
+      </a>
+    </li>
+
+          <li>
+        <a href="#" data-sidebar-target="find-a-therapist">
+          <span class="icon icon-left icon-fat"></span>
+          Find Counselling
+          <span class="icon icon-chevron-right"></span>
+        </a>
+      </li>
+    
+          <li>
+        <a href="#" data-sidebar-target="get-help">
+          <span class="icon icon-left icon-get-help"></span>
+          Get Help          <span class="icon icon-chevron-right"></span>
+        </a>
+      </li>
+    
+          <li>
+        <a href="#" data-sidebar-target="magazine">
+          <span class="icon icon-left icon-magazine"></span>
+          Magazine
+          <span class="icon icon-chevron-right"></span>
+        </a>
+      </li>
+    
+          <li>
+        <a href="#" data-sidebar-target="tests">
+          <span class="icon icon-left icon-tests"></span>
+          Tests
+          <span class="icon icon-chevron-right"></span>
+        </a>
+      </li>
+      </ul>
+</div>
+
+  <div class="sidebar" data-sidebar-location="find-a-therapist">
+    <div class="sidebar__header">
+      <a class="sidebar-back-arrow" data-sidebar-parent="main">Back</a>
+      <div class="sidebar-title">Find a Therapist</div>
+    </div>
+    <div id="block-countrymobilenavigationfindtherapistblock" class="block">
+  
+    
+      <div>
+  <ul class="fat-sidebar-menu-list">
+    <li class="menu-list-category"><span>Get Help</span></li>
+          <li class="main-nav--basics-link">
+        <a href="https://www.psychologytoday.com/gb/counselling" title="Find Counselling">Find Counselling</a>
+      </li>
+                      <li class="main-nav--basics-link">
+        <a href="https://www.psychologytoday.com/gb/groups" title="Find a Support Group">Find a Support Group</a>
+      </li>
+              <li class="main-nav--basics-link">
+        <a href="https://www.psychologytoday.com/gb/counselling?category=online-counselling" title="Find Online Therapy">Find Online Therapy</a>
+      </li>
+      </ul>
+
+
+  <ul class="fat-sidebar-menu-list">
+    <li class="menu-list-category"><span>Members</span></li>
+          <li><a href="https://member.psychologytoday.com/gb/login" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_TherapistLogIn">Login</a></li>
+              <li><a href="https://join.psychologytoday.com/gb/signup" data-event-category="OutboundLink" data-event-action="Click" data-event-label="PT_TopNav_SignupN">Sign Up</a></li>
+      </ul>
+
+  
+  <ul class="fat-sidebar-menu-list">
+    <li class="menu-list-category">
+      <span>
+        <a href="https://www.psychologytoday.com/gb/counselling">
+            United Kingdom
+      </a>
+      </span>
+    </li>
+    
+
+  <li><a href="https://www.psychologytoday.com/gb/counselling/nir/belfast" title="Find Relationship Issues Counselling in Belfast" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Belfast</a></li>
+  <li><a href="https://www.psychologytoday.com/gb/counselling/eng/birmingham" title="Find Relationship Issues Counselling in Birmingham" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Birmingham</a></li>
+  <li><a href="https://www.psychologytoday.com/gb/counselling/eng/bristol" title="Find Relationship Issues Counselling in Bristol" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Bristol</a></li>
+  <li><a href="https://www.psychologytoday.com/gb/counselling/wls/cardiff" title="Find Relationship Issues Counselling in Cardiff" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Cardiff</a></li>
+  <li><a href="https://www.psychologytoday.com/gb/counselling/eng/coventry" title="Find Relationship Issues Counselling in Coventry" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Coventry</a></li>
+  <li><a href="https://www.psychologytoday.com/gb/counselling/sct/edinburgh" title="Find Relationship Issues Counselling in Edinburgh" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Edinburgh</a></li>
+  <li><a href="https://www.psychologytoday.com/gb/counselling/eng/leeds" title="Find Relationship Issues Counselling in Leeds" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Leeds</a></li>
+  <li><a href="https://www.psychologytoday.com/gb/counselling/eng/leicester" title="Find Relationship Issues Counselling in Leicester" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Leicester</a></li>
+  <li><a href="https://www.psychologytoday.com/gb/counselling/eng/liverpool" title="Find Relationship Issues Counselling in Liverpool" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Liverpool</a></li>
+  <li><a href="https://www.psychologytoday.com/gb/counselling/eng/london" title="Find Relationship Issues Counselling in London" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">London</a></li>
+  <li><a href="https://www.psychologytoday.com/gb/counselling/eng/manchester" title="Find Relationship Issues Counselling in Manchester" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Manchester</a></li>
+  <li><a href="https://www.psychologytoday.com/gb/counselling/eng/sheffield" title="Find Relationship Issues Counselling in Sheffield" data-event-label="PT_TopNavF_Therapist1" data-event-category="OutboundLink" data-event-action="Click" class="td-city-link">Sheffield</a></li>
+
+  </ul>
+
+</div>
+
+  </div>
+
+  </div>
+
+  <div class="sidebar" data-sidebar-location="get-help">
+    <div class="sidebar__header">
+      <a class="sidebar-back-arrow" data-sidebar-parent="main">Back</a>
+      <div class="sidebar-title">Get Help</div>
+    </div>
+    <div id="block-basicslinkmenublock-mental-health-mobile">
+  
+      <div class="h3 main-nav--basics-link-title">Mental Health</div>
+    
+      
+
+  <div>
+        <ul class="list-style-none main-nav--basics-links">
+                    <li class="main-nav--basics-link"><a href="/gb/basics/addiction" data-drupal-link-system-path="node/50109">Addiction</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/anxiety" data-drupal-link-system-path="node/41827">Anxiety</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/adhd" data-drupal-link-system-path="node/41094">ADHD</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/aspergers-syndrome" data-drupal-link-system-path="node/41798">Asperger&#039;s</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/autism" data-drupal-link-system-path="node/40997">Autism</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/bipolar-disorder" data-drupal-link-system-path="node/41105">Bipolar Disorder</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/chronic-pain" data-drupal-link-system-path="node/53685">Chronic Pain</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/depression" data-drupal-link-system-path="node/40725">Depression</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/eating-disorders" data-drupal-link-system-path="node/41459">Eating Disorders</a></li>
+                </ul>
+      </div>
+
+  </div>
+<div id="block-basicslinkmenublock-personality-mobile">
+  
+      <div class="h3 main-nav--basics-link-title">Personality</div>
+    
+      
+
+  <div>
+        <ul class="list-style-none main-nav--basics-links">
+                    <li class="main-nav--basics-link"><a href="/gb/basics/passive-aggression" data-drupal-link-system-path="node/53837">Passive Aggression</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/personality" data-drupal-link-system-path="node/53843">Personality</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/shyness" data-drupal-link-system-path="node/53941">Shyness</a></li>
+                </ul>
+      </div>
+
+  </div>
+<div id="block-basicslinkmenublock-personal-growth-mobile">
+  
+      <div class="h3 main-nav--basics-link-title">Personal Growth</div>
+    
+      
+
+  <div>
+        <ul class="list-style-none main-nav--basics-links">
+                    <li class="main-nav--basics-link"><a href="/gb/basics/motivation" data-drupal-link-system-path="node/53823">Goal Setting</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/happiness" data-drupal-link-system-path="node/53757">Happiness</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/positive-psychology" data-drupal-link-system-path="node/53862">Positive Psychology</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/smoking" data-drupal-link-system-path="node/53954">Stopping Smoking</a></li>
+                </ul>
+      </div>
+
+  </div>
+<div id="block-basicslinkmenublock-relationships-mobile">
+  
+      <div class="h3 main-nav--basics-link-title">Relationships</div>
+    
+      
+
+  <div>
+        <ul class="list-style-none main-nav--basics-links">
+                    <li class="main-nav--basics-link"><a href="/gb/basics/low-sexual-desire" data-drupal-link-system-path="node/69085">Low Sexual Desire</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/relationships" data-drupal-link-system-path="node/53894">Relationships</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/sex" data-drupal-link-system-path="node/53931">Sex</a></li>
+                </ul>
+      </div>
+
+  </div>
+<div id="block-basicslinkmenublock-family-life-mobile">
+  
+      <div class="h3 main-nav--basics-link-title">Family Life</div>
+    
+      
+
+  <div>
+        <ul class="list-style-none main-nav--basics-links">
+                    <li class="main-nav--basics-link"><a href="/gb/basics/child-development" data-drupal-link-system-path="node/53683">Child Development</a></li>
+              <li class="main-nav--basics-link"><a href="/gb/basics/parenting" data-drupal-link-system-path="node/53833">Parenting</a></li>
+                </ul>
+      </div>
+
+  </div>
+<div id="block-gethelpbasicsindexblock" class="block">
+  
+    
+      <div class="h3 main-nav--basics-link-title basics-link-title__view-help-index"><a href="/gb/basics" class="right-chevron-after">View Help Index</a></div>
+
+  </div>
+<div id="block-gethelpindexlinksblock-2" class="block">
+  
+    
+            <div class="h3 main-nav--basics-link-title">Do I Need Help?</div>
+        <ul class="list-style-none main-nav--basics-links">
+              <li class="main-nav--basics-link">
+          <a href="/gb/tests" title="Self Tests" hreflang="en">
+            Self Tests <div class="result-tag">NEW</div>          </a>
+        </li>
+              <li class="main-nav--basics-link">
+          <a href="/gb/basics/therapy" title="Therapy Center" hreflang="en">
+            Therapy Center          </a>
+        </li>
+          </ul>
+        <div class="h3 main-nav--basics-link-title">Student Resources</div>
+        <ul class="list-style-none main-nav--basics-links">
+              <li class="main-nav--basics-link">
+          <a href="/gb/conditions" title="Clinical Terms" hreflang="en">
+            Clinical Terms          </a>
+        </li>
+              <li class="main-nav--basics-link">
+          <a href="/gb/types-of-therapy" title="Types of Therapy" hreflang="en">
+            Types of Therapy          </a>
+        </li>
+          </ul>
+  
+  </div>
+<div id="block-countrymenufindlinksblock-2" class="block">
+  
+    
+      <div class="h3 main-nav--basics-link-title">Talk to Someone</div>
+<ul class="list-style-none main-nav--basics-links">
+      <li class="main-nav--basics-link">
+      <a href="https://www.psychologytoday.com/gb/counselling" title="Find Counselling">Find Counselling</a>
+    </li>
+            <li class="main-nav--basics-link">
+      <a href="https://www.psychologytoday.com/gb/groups" title="Find a Support Group">Find a Support Group</a>
+    </li>
+        <li class="main-nav--basics-link">
+      <a href="https://www.psychologytoday.com/gb/counselling?category=online-counselling" title="Find Online Therapy">Find Online Therapy</a>
+    </li>
+  </ul>
+
+  </div>
+
+  </div>
+
+  <div class="sidebar" data-sidebar-location="magazine">
+    <div class="sidebar__header">
+      <a class="sidebar-back-arrow" data-sidebar-parent="main">Back</a>
+      <div class="sidebar-title">Magazine</div>
+    </div>
+    <div class="views-element-container block" id="block-views-block-magazine-block-3">
+  
+    
+      <div>
+<div class="js-view-dom-id-d636c857e8ef0eb6398ff1d1d43cee9601097584b95a5766c34833157d4c95df sidebar__content">
+  
+  
+  
+
+  
+  
+  
+
+      <div>
+<div class="magazine-issue magazine-cover-feature">
+  <div class="magazine-cover-feature__cover magazine-thumbnail">
+    <a href="https://www.psychologytoday.com/gb/magazine/archive/2026/09" title="September 2026">
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-08/2026-09.png.jpg?itok=4OW8Fjd3" width="384" height="504" alt="September 2026 magazine cover" title="The Power of Enough" />
+
+
+
+      </a>
+  </div>
+
+  <div class="magazine-cover-feature__text">
+    <a href="https://www.psychologytoday.com/gb/magazine/archive/2026/09" title="September 2026">
+      <div class="h3 magazine-cover-feature__date">
+            September 2026 
+      </div>
+      <div class="h3 magazine-cover-feature__headline">
+            The Power of Enough
+      </div>
+    </a>
+    <div class="magazine-cover-feature__highlight"><p>
+            We’re all holding onto something we’re sure we can’t give up on, but research shows that letting go can boost our happiness a lot more than we might think.
+      </p></div>
+  </div>
+  
+</div>
+</div>
+
+
+      <a href="https://subscribe.psychologytoday.com" class="btn btn-round btn-blue" title="Subscribe to Psychology Today Magazine">Subscribe</a>
+    <a href="/gb/magazine/archive" class="btn btn-round btn-white" title="Psychology Today Issue Archive">Issue Archive</a>
+  
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+  </div>
+
+  <div class="sidebar" data-sidebar-location="tests">
+    <div class="sidebar__header">
+      <a class="sidebar-back-arrow" data-sidebar-parent="main">Back</a>
+      <div class="sidebar-title">Tests</div>
+    </div>
+    <div id="block-pt-selftestsmenublock-mobile" class="block mobile-nav--tests--block">
+  
+    
+      <div class="tests--column-1">
+              <div class="tests--image">
+          
+              <img loading="lazy" src="https://cdn2.psychologytoday.com/assets/self-tests-menu%402x.png" width="591" height="440" alt="Self Tests" />
+
+
+      
+        </div>
+                    <div class="tests--title">
+          Self Tests
+        </div>
+                    <div class="nav--tests--description">
+          <p>Self Tests are all about you. Are you outgoing or introverted? Are you a narcissist? Does perfectionism hold you back? Find out the answers to these questions and more with Psychology Today.</p>
+
+        </div>
+                </div>
+    <div class="tests--column-2">
+              <div class="column-title">Self Assessments</div>
+            <div class="tests--test-list_1">
+                  <ul class="list-style-none">
+                          <li><a href="/gb/tests/health/autism-test" hreflang="en">Autism Test</a></li>
+                          <li><a href="/gb/tests/health/borderline-personality-disorder-test" hreflang="en">Borderline Personality Disorder Test</a></li>
+                          <li><a href="/gb/tests/health/depression-test" hreflang="en">Depression Test</a></li>
+                          <li><a href="/gb/tests/personality/emotional-intelligence-test" hreflang="en">Emotional Intelligence Test</a></li>
+                          <li><a href="/gb/tests/health/anxiety-test" hreflang="en">Generalized Anxiety Disorder Test</a></li>
+                          <li><a href="/gb/tests/personality/extroversion-introversion-test" hreflang="en">Introversion / Extroversion Test</a></li>
+                          <li><a href="/gb/tests/personality/narcissism-test" hreflang="en">Narcissism Test</a></li>
+                          <li><a href="/gb/tests/personality/ocd-test" hreflang="en">OCD Test</a></li>
+                          <li><a href="/gb/tests/personality/psychopathy-test" hreflang="en">Psychopathy Test</a></li>
+                          <li><a href="/gb/tests/personality/self-esteem-test" hreflang="en">Self-Esteem Test</a></li>
+                          <li><a href="/gb/tests/relationships/sex-personality-test" hreflang="en">Sex Personality Test</a></li>
+                          <li><a href="/gb/tests/health/mental-health-assessment" hreflang="en">Your Mental Health Today Test</a></li>
+                      </ul>
+              </div>
+              <div><div class="self-tests--index-page-link">
+            <a href="/gb/tests" title="See All Self Tests">See All Self Tests</a>
+      </div>
+</div>
+                    <div class="column-title-2">Quizzes</div>
+            <div class="tests--test-list_2">
+                  <ul class="list-style-none">
+                          <li><a href="/gb/quizzes/mood-regulation-test" hreflang="en">Can You Burst a Bad Mood?</a></li>
+                          <li><a href="/gb/quizzes/dating-red-flags-test" hreflang="en">Can You Spot Dating Red Flags?</a></li>
+                          <li><a href="/gb/quizzes/defense-mechanisms-test" hreflang="en">Can You Spot Defense Mechanisms?</a></li>
+                          <li><a href="/gb/quizzes/relationship-red-flags-test" hreflang="en">Can You Spot Red Flags In A Relationship?</a></li>
+                          <li><a href="/gb/quizzes/happiness-test" hreflang="en">Do You Know What Makes People Happy? </a></li>
+                          <li><a href="/gb/quizzes/multiple-intelligences-test" hreflang="en">Do You Know What the Different Intelligences Are?</a></li>
+                          <li><a href="/gb/quizzes/mind-myths-test" hreflang="en">Do You Still Believe These Myths About The Mind? </a></li>
+                          <li><a href="/gb/quizzes/human-nature-test" hreflang="en">Do You Understand Human Nature? </a></li>
+                          <li><a href="/gb/quizzes/false-memory-mandela-effect-test" hreflang="en">False Memories/Mandela Effect Quiz</a></li>
+                          <li><a href="/gb/quizzes/psychopathy-vs-sociopathy-test" hreflang="en">Psychopath vs. Sociopath Test</a></li>
+                          <li><a href="/gb/quizzes/verbal-iq-test" hreflang="en">Verbal IQ Test</a></li>
+                          <li><a href="/gb/quizzes/dark-personality-career-test" hreflang="en">Which Jobs Attract &quot;Dark&quot; Personalities? </a></li>
+                      </ul>
+              </div>
+              <div><div class="self-tests--index-page-link">
+            <a href="/gb/quizzes" title="See All Quizzes">See All Quizzes</a>
+      </div>
+</div>
+          </div>
+  </div>
+
+  </div>
+
+  </div>
+
+</div>
+
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"gb\/","currentPath":"node\/1149429","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"_wrapper_format":"html"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxNj2tyxCAMgy8UwpEyBpSsswRTA2lz-wZ2-_gD8meNRvaisEFbpjjTTl-T74BThaYb7R8Nes2r6DEFqhTpglqHB50sWqZcrYuyGaSql1lbjB1FSlujDcaLPBkdVXIRw1-DKSD1j3tYKFgKhtMOX0X_SPEqI6vPW64mq3iU8iIHJ_sj5shOSa--6VWWUaW38k9DmTtH4DudKdr_wzLkIrmypHL_SBgVEp2O1P6qzmqwgXW0vAy1Kl6OHFHxXr5OMqVtG8oInMpVKg7rqGA6OUAWHA5hWRkxWEXJt4tPmLG8LfgsdrzzIaFFfAOjW5-z","theme":"pt","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/gb\/blog\/the-high-functioning-hotspot\/202008\/the-ultimate-guide-breakups?_wrapper_format=html\u0026ajax_form=1":true},"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0},"es":{"id":"es","name":"espa\u00f1ol","direction":"ltr","weight":1},"fr":{"id":"fr","name":"French","direction":"ltr","weight":2},"en-us":{"id":"en-us","name":"United States (English)","direction":"ltr","weight":3},"en-ca":{"id":"en-ca","name":"Canada (English)","direction":"ltr","weight":4},"en-au":{"id":"en-au","name":"Australia (English)","direction":"ltr","weight":5},"en-at":{"id":"en-at","name":"Austria (English)","direction":"ltr","weight":5},"en-be":{"id":"en-be","name":"Belgium (English)","direction":"ltr","weight":6},"en-gb":{"id":"en-gb","name":"United Kingdom (English)","direction":"ltr","weight":6},"en-dk":{"id":"en-dk","name":"Denmark (English)","direction":"ltr","weight":7},"en-ie":{"id":"en-ie","name":"Ireland (English)","direction":"ltr","weight":7},"en-se":{"id":"en-se","name":"Sweden (English)","direction":"ltr","weight":8},"en-nz":{"id":"en-nz","name":"New Zealand (English)","direction":"ltr","weight":9},"en-ch":{"id":"en-ch","name":"Switzerland (English)","direction":"ltr","weight":9},"en-hk":{"id":"en-hk","name":"Hong Kong (English)","direction":"ltr","weight":10},"en-sg":{"id":"en-sg","name":"Singapore (English)","direction":"ltr","weight":10},"en-za":{"id":"en-za","name":"South Africa (English)","direction":"ltr","weight":11},"es-ar":{"id":"es-ar","name":"Argentina (Espanol)","direction":"ltr","weight":12},"es-cl":{"id":"es-cl","name":"Chile (Espanol)","direction":"ltr","weight":13},"es-co":{"id":"es-co","name":"Colombia (Espanol)","direction":"ltr","weight":14},"es-cr":{"id":"es-cr","name":"Costa Rica (Espanol)","direction":"ltr","weight":15},"es-gt":{"id":"es-gt","name":"Guatemala (Espanol)","direction":"ltr","weight":17},"es-mx":{"id":"es-mx","name":"Mexico (Espanol)","direction":"ltr","weight":18},"es-pa":{"id":"es-pa","name":"Panama (Espanol)","direction":"ltr","weight":19},"es-pe":{"id":"es-pe","name":"Peru (Espanol)","direction":"ltr","weight":20},"es-pr":{"id":"es-pr","name":"Puerto Rico (Espanol)","direction":"ltr","weight":21},"es-us":{"id":"es-us","name":"United States (Espanol)","direction":"ltr","weight":22},"es-uy":{"id":"es-uy","name":"Uruguay (Espanol)","direction":"ltr","weight":23}}},"ptBlogEntryNid":"1149429","ptAd":{"slotPlacement":{"slots":{"728x90_Bottom_www_site":{"name":"728x90_Bottom_www_site","path":"\/1032688\/728x90_Bottom_www_site_Ad_Slot","opt_div":"div-gpt-ad-1390414551849-1","show_ad_text":false,"ad_text":"advertisement","size":[[728,90]],"device_sizes":["large","extra_large"],"ad_theme_type":"pt_ad","display_small":"","display_medium":"","display_large":"1","display_extra_large":"1"},"300x600_Right2_www_site":{"name":"300x600_Right2_www_site","path":"\/1032688\/300x600_Right2_www_site_Ad_Slot","opt_div":"div-gpt-ad-1390414551849-0","show_ad_text":true,"ad_text":"advertisement","size":[[300,600]],"device_sizes":["large","extra_large"],"ad_theme_type":"pt_ad","display_small":"","display_medium":"","display_large":"1","display_extra_large":"1"},"300x_Right_www":{"name":"300x_Right_www","path":"\/1032688\/300x*_Right_www","opt_div":"div-gpt-ad-1391201642419-0","show_ad_text":true,"ad_text":"advertisement","size":[[300,250],[300,600]],"device_sizes":["large","extra_large"],"ad_theme_type":"pt_ad","display_small":"","display_medium":"","display_large":"1","display_extra_large":"1"},"300x250_Mobile_Bottom":{"name":"300x250_Mobile_Bottom","path":"1032688\/300x250_Mobile_Bottom","opt_div":"div-gpt-ad-1424993595349-0","show_ad_text":true,"ad_text":"advertisement","size":[[300,250]],"device_sizes":["small","medium"],"ad_theme_type":"pt_ad","display_small":"1","display_medium":"1","display_large":"","display_extra_large":""},"300x250_in-content3":{"name":"300x250_in-content3","path":"\/1032688\/300x250_In-Content3","opt_div":"div-gpt-ad-1468856734952-0","show_ad_text":true,"ad_text":"article continues after advertisement","size":[[300,250]],"device_sizes":["small","medium","large","extra_large"],"ad_theme_type":"pt_ad","display_small":"1","display_medium":"1","display_large":"1","display_extra_large":"1"},"300x250_in-content":{"name":"300x250_in-content","path":"\/1032688\/300x250_in-content","opt_div":"div-gpt-ad-1456244145486-0","show_ad_text":true,"ad_text":"article continues after advertisement","size":[[300,250]],"device_sizes":["small","medium","large","extra_large"],"ad_theme_type":"pt_ad","display_small":"1","display_medium":"1","display_large":"1","display_extra_large":"1"},"300x250_in-content4":{"name":"300x250_in-content4","path":"\/1032688\/300x250_In-Content4","opt_div":"div-gpt-ad-1557343104304-0","show_ad_text":true,"ad_text":"article continues after advertisement","size":[[300,250]],"device_sizes":["small","medium","large","extra_large"],"ad_theme_type":"pt_ad","display_small":"1","display_medium":"1","display_large":"1","display_extra_large":"1"},"300x250_Mobile_Content1":{"name":"300x250_Mobile_Content1","path":"\/1032688\/300x250_Mobile_Content1","opt_div":"div-gpt-ad-1404853927369-9","show_ad_text":true,"ad_text":"article continues after advertisement","size":[[300,250]],"device_sizes":["small","medium","large","extra_large"],"ad_theme_type":"pt_ad","display_small":"1","display_medium":"1","display_large":"1","display_extra_large":"1"}},"targets":{"targeting":{"HealthCat":[],"OtherCat":["404552"],"SpecialCat":["blog"],"PageNid":["1149429"],"BlogNid":["1137490"],"NodeType":["blog_entry"]}},"exclusions":[]},"units":{"0":"\u003Cdiv class=\u0022pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block\u0022 id=\u0022block-adblock-18\u0022\u003E\n  \n    \n      \u003Cdiv class=\u0022pt-ad--container pt-ad-show-text\u0022\u003E\n      \u003Cdiv class=\u0022pt-ad--text\u0022\u003E\n      \u003Cspan\u003Earticle continues after advertisement\u003C\/span\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022div-gpt-ad-1404853927369-9\u0022 class=\u0022pt-ad--content\u0022\u003E\n    \u003Cscript type=\u0022text\/javascript\u0022\u003E\n      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {\n        window.ptAdSlots = [];\n      }\n      window.ptAdSlots.push(\u0027div-gpt-ad-1404853927369-9\u0027)\n    \u003C\/script\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n\n  \u003C\/div\u003E\n","10":"\u003Cdiv class=\u0022pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block\u0022 id=\u0022block-adblock-17\u0022\u003E\n  \n    \n      \u003Cdiv class=\u0022pt-ad--container pt-ad-show-text\u0022\u003E\n      \u003Cdiv class=\u0022pt-ad--text\u0022\u003E\n      \u003Cspan\u003Earticle continues after advertisement\u003C\/span\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022div-gpt-ad-1557343104304-0\u0022 class=\u0022pt-ad--content\u0022\u003E\n    \u003Cscript type=\u0022text\/javascript\u0022\u003E\n      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {\n        window.ptAdSlots = [];\n      }\n      window.ptAdSlots.push(\u0027div-gpt-ad-1557343104304-0\u0027)\n    \u003C\/script\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n\n  \u003C\/div\u003E\n","4":"\u003Cdiv class=\u0022pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block\u0022 id=\u0022block-adblock-19\u0022\u003E\n  \n    \n      \u003Cdiv class=\u0022pt-ad--container pt-ad-show-text\u0022\u003E\n      \u003Cdiv class=\u0022pt-ad--text\u0022\u003E\n      \u003Cspan\u003Earticle continues after advertisement\u003C\/span\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022div-gpt-ad-1456244145486-0\u0022 class=\u0022pt-ad--content\u0022\u003E\n    \u003Cscript type=\u0022text\/javascript\u0022\u003E\n      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {\n        window.ptAdSlots = [];\n      }\n      window.ptAdSlots.push(\u0027div-gpt-ad-1456244145486-0\u0027)\n    \u003C\/script\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n\n  \u003C\/div\u003E\n","7":"\u003Cdiv class=\u0022pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block\u0022 id=\u0022block-adblock-16\u0022\u003E\n  \n    \n      \u003Cdiv class=\u0022pt-ad--container pt-ad-show-text\u0022\u003E\n      \u003Cdiv class=\u0022pt-ad--text\u0022\u003E\n      \u003Cspan\u003Earticle continues after advertisement\u003C\/span\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022div-gpt-ad-1468856734952-0\u0022 class=\u0022pt-ad--content\u0022\u003E\n    \u003Cscript type=\u0022text\/javascript\u0022\u003E\n      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {\n        window.ptAdSlots = [];\n      }\n      window.ptAdSlots.push(\u0027div-gpt-ad-1468856734952-0\u0027)\n    \u003C\/script\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n\n  \u003C\/div\u003E\n"}},"ajax":{"edit-subscribe":{"callback":"::ajaxSubmit","wrapper":"pt-audience--subscribe-form--ajax-wrapper","event":"click","progress":{"message":null},"url":"\/gb\/blog\/the-high-functioning-hotspot\/202008\/the-ultimate-guide-breakups?_wrapper_format=html\u0026ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Sign Me Up"}}},"user":{"uid":0,"permissionsHash":"23947b320de460510777bfb9a99db9b38de7a83e17637daaf9357117fc61a0ae"}}</script>
+<script src="https://cdn2.psychologytoday.com/assets/js/js_Mcg3pPx0eyHpMDqh7hRpOHXveo2aficwTdNZRLYKR0s.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=pt&amp;include=eJxNjtEOwyAIRX-o1k8yVKm1deIQm_XvV1yy7Yl7TwIHT4w2cK-QZ9jhNXkFqQhyudH-7MjXvBI_pgACGS5ku-AGZyJuUxW7ZIoGi_Bl1p6zogwldohoPNGRUJEE0xDYb3dxECwEk8qOXoh_pHmmcUF7rGIqk8emGqcaNzRq9IeBmpRjSPeNBNn-FzeioyqJSrsnFhyiAucCbL9JmQT7-c20HiO2sfMGMENskA"></script>
+<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" defer></script>
+<script src="https://cdn2.psychologytoday.com/modules/custom/pt_ad/js/inject-inline-ads.js?v=1.x-bust" defer></script>
+<script src="https://cdn2.psychologytoday.com/modules/custom/pt_ad/js/ad-scroll.js?v=1.x-bust" defer></script>
+<script src="https://cdn2.psychologytoday.com/modules/custom/pt_ad/js/gpt-process.js?v=2.x-bust" defer></script>
+<script src="https://cdn2.psychologytoday.com/assets/js/js_-9wkNM9D6BgUqROCmSPjnZnjM6mG-W-B_zZ2OzJIhrg.js?scope=footer&amp;delta=5&amp;language=en&amp;theme=pt&amp;include=eJxNjtEOwyAIRX-o1k8yVKm1deIQm_XvV1yy7Yl7TwIHT4w2cK-QZ9jhNXkFqQhyudH-7MjXvBI_pgACGS5ku-AGZyJuUxW7ZIoGi_Bl1p6zogwldohoPNGRUJEE0xDYb3dxECwEk8qOXoh_pHmmcUF7rGIqk8emGqcaNzRq9IeBmpRjSPeNBNn-FzeioyqJSrsnFhyiAucCbL9JmQT7-c20HiO2sfMGMENskA"></script>
+<script src="https://cdn2.psychologytoday.com/modules/custom/pt_td/js/search-suggestions.min.js?v=2.0.14-bust"></script>
+
+  </body>
+</html>
